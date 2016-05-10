@@ -1,2 +1,1 @@
-# Resources for teaching programming
-for artists, designers and architects
+## Resources for teaching programming for artists, designers and architects
