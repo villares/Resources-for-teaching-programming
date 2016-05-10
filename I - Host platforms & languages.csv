@@ -7,6 +7,7 @@ yes,Windows,Proprietary (freeware?),Bentley ,Generative Components,nodes,Generat
 yes,"Windows, Mac OS, Linux",FOSS,Blender,Python,Python,"Plug-in tools, complex 3D geometry",blender.org/manual/advanced/scripting/introduction.html,
 yes,"Windows, Mac OS",FOSS,Cinder,C++,C,"2D graphics, generative art, dataviz",libcinder.org/,
 yes,Mac OS,FOSS,Drawbot,Python,Python,"2D graphics, generative art, dataviz",www.drawbot.com/,
+partial,"Windows, Mac OS, Linux",FOSS,FreeCAD,Python,Python,"Plug-in tools, complex 2D and 3D geometry",www.freecadweb.org,http://www.freecadweb.org/wiki/index.php?title=FreeCAD_Scripting_Basics
 partial,"Windows, Mac OS, Linux",Proprietary,Minecraft,[various],"blocks, Python, Javascript, Lua","Education, games",,http://computercraftedu.com/ http://pi.minecraft.net/?page_id=14
 partial,"Windows, Mac OS, Linux",FOSS,NodeBox 3,NodeBox,"nodes, Python","2D graphics, generative art, dataviz",www.nodebox.net/node/,
 partial,"Windows, Mac OS, Linux",FOSS,NodeBox for OpenGL,Python,Python,"2D graphics, generative art, dataviz",www.cityinabottle.org/nodebox/,
