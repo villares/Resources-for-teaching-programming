@@ -1,5 +1,4 @@
-## Resources for teaching programming
-## for artists, designers and architects
+## Resources for teaching programming for artists, designers and architects
 
 **Please consider feedback and/or a small donation!**
 
