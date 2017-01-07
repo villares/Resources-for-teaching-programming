@@ -1,26 +1,27 @@
 ID,Card,Media,Title,Authors,Edition,Keywords,Language,Where to find,Notable Licenses
 01,yes,"book, PDF",10 print chr$(205.5+rnd(1)) :goto 10,"BAUDOIN, Patsy; REAS, Casey; MARINO, Mark C.; DOUGLASS, Jeremy; BELL, John; SAMPLE, Mark; BOGOST, Ian; MONTFORT, Nick.","Cambridge, Mass.: MIT Press, 2013.","Digital literacy, art",English,[PDF disponível] 10print.org,Creative Commons BY-NC-SA 3.0
 02,no,PDF,Arduino 101 Oficina para principiantes,"RAMALHO, Luciano.",-,"Arduino, indtrodutório",português,[PDF disponível] speakerdeck.com/ramalho/arduino-101,Creative Commons BY-SA
-03,no,book,Beginning Arduino (Technology in Action),"McROBERTS, Michael.","2nd ed., Apress, 2015","Arduino, indtrodutório",English,,-
+03,no,book,Beginning Arduino (Technology in Action),"McROBERTS, Michael.","2nd ed., Apress, 2015","Arduino, Introductory",English,,-
 04,yes,"book, site",Automate the Boring Stuff with Python: Practical Programming for Total Beginners,"SWEIGART, Al.","No Starch Press; 1st edition (May 1, 2015)",Python,English,[read online] automatetheboringstuff.com,Creative Commons BY-NC-SA 4.0
 05,yes,"book, PDF",Automatic SketchUp: Creating 3-D Models in Ruby,"SCARPINO, Matthew.","Eclipse Engineering, 2010","SketchUp, Ruby",English,[PDF disponível] www.automaticsketchup.com,-
 07,no,book,"Form+Code in Design, Art, and Architecture","REAS, Casey; McWILLIAMS, Chandler; BARENDSE, Jeroen.","Princeton Architectural Press, 2010","Processing, Art",English,formandcode.com/,-
 08,no,"book, PDF, site",GDL Cookbook,"NICHOLSON-COLE, David.","Marmalade, 2002","ArchiCAD, GDL",English,nottingham.ac.uk/~lazwww/cookbook/,-
 09,no,book,"Generative Design: Visualize, Program, and Create with Processing","Hartmut Bohnacker  (Author), Benedikt Gross (Author), Julia Laub (Author), Claudius Lazzeroni (Editor)","Princeton Architectural Press, 2012","Processing, Art",English,www.amazon.com/Generative-Design-Visualize-Program-Processing/dp/1616890770/,-
-10,no,"book, ebook","Getting Started with p5.js
-Making Interactive Graphics in JavaScript and Processing","REAS, Casey; FRY, Ben.","Maker Media, 2015","P5*JS, introductory",English,shop.oreilly.com/product/0636920032076.do,-
-11,no,video,Hello P5JS,"GARNER, Scott; SHIFFMAN, Daniel; MAcCARTHY, Lauren.","P5JS.org, 2014","P5JS, Javascript",English,[watch online] hello.p5js.org,Creative Commons BY-NC-SA 4.0
-12,yes,video,Hello Processing,"SHIFFMAN, Daniel.","Processing Foundation, 2013","Cultura digital, arte, Processing, introductory",English,[watch online] hello.processing.org,Creative Commons BY-NC-SA 4.0
+10,no,"book, ebook","Getting Started with p5.js Making Interactive Graphics in JavaScript and Processing","REAS, Casey; FRY, Ben.","Maker Media, 2015","P5*JS, introductory",English,shop.oreilly.com/product/0636920032076.do,-
+11,no,video,Hello P5JS,"GARNER, Scott; SHIFFMAN, Daniel; MAcCARTHY, Lauren.","P5JS.org, 2014","P5*JS, Javascript",English,[watch online] hello.p5js.org,Creative Commons BY-NC-SA 4.0
+12,yes,video,Hello Processing,"SHIFFMAN, Daniel.","Processing Foundation, 2013","Art, Processing, introductory",English,[watch online] hello.processing.org,Creative Commons BY-NC-SA 4.0
 13,no,site,Hour of Python,,Trinket.io,"Python, introductory",English,https://hourofpython.com/,-
-15,yes,book,Introducing Python: Modern Computing in ple Packages,"LUBANOVIC, Bill.","O'Reilly, 2014","Python, introductory",English,shop.oreilly.com/product/0636920028659.do,-
+15,yes,book,Introducing Python: Modern Computing in simple Packages,"LUBANOVIC, Bill.","O'Reilly, 2014","Python, introductory",English,shop.oreilly.com/product/0636920028659.do,-
 16,no,"book, ebook","Learning Processing, Second Edition","SHIFFMAN, Daniel.","2nd ed., Morgan Kaufmann, 2015","Processing, introductory",English,learningprocessing.com,-
 17,no,"book, ebook",Make: Getting Started with Processing,"REAS, Casey; FRY, Ben.","2nd ed., Maker Media, 2015","Processing, introductory",English,shop.oreilly.com/product/0636920031406.do,-
-18,no,site,P5*JS Tutorials,[diversos autores],Processing Foundation,"Processing, Python, Conceitos de Programação",English,[Visit] http://p5js.org/tutorials/,?
-19,yes,book,Processing: A Programming Handbook forVisual Designers and Artists​.,"REAS, Casey; FRY, Ben.","MIT Press, Cambridge, 2007 /2nd rev. ed. 2014.","introductory, Essencial, Processing, Artes visuais",English,processing.org/handbook/,-
+18,no,site,P5*JS Tutorials,[diversos autores],Processing Foundation,"Processing, Javascript",English,[Visit] http://p5js.org/tutorials/,?
+19,yes,book,Processing: A Programming Handbook forVisual Designers and Artists​.,"REAS, Casey; FRY, Ben.","MIT Press, Cambridge, 2007 /2nd rev. ed. 2014.","introductory, Essenyial, Processing, Visual arts",English,processing.org/handbook/,-
 20,no,book,Processing: Creative Coding and Computational Art in Processing 2,"GREENBERG, Ira; XU, Dianna; KUMAR, Deepak.","2nd Ed., Apress, 2013",Processing,English,apress.com/9781430244646,-
-21,yes,site,Processing.org Tutorials,[diversos autores],Processing Foundation,"Processing, Java, Conceitos de Programação",English,[Visit] https://processing.org/tutorials/,"Licences vary, some are Creative Commons BY-NC-SA 4.0"
-22,yes,site,py.Processing.org Tutorials,[diversos autores],Processing Foundation,"Processing, Python, Conceitos de Programação",English,[Visit] http://py.processing.org/tutorials/,"Licences vary, some are Creative Commons BY-NC-SA 4.0"
+21,yes,site,Processing.org Tutorials,[diversos autores],Processing Foundation,"Processing, Java",English,[Visit] https://processing.org/tutorials/,"Licences vary, some are Creative Commons BY-NC-SA 4.0"
+22,yes,site,py.Processing.org Tutorials,[diversos autores],Processing Foundation,"Processing, Python",English,[Visit] http://py.processing.org/tutorials/,"Licences vary, some are Creative Commons BY-NC-SA 4.0"
 23,yes,ebook,"Python in education - Teach, Learn, Program","TOLLERVEY, Nicholas.","O’Reilly, Sebastopol, 2015.","introductory, Python, Education",English,[free ePUB] www.oreilly.com/programming/free/python-in-education.csp,-
-24,yes,"book, site",The Nature of Code: ulating Natural Systems with Processing.,"SHIFFMAN, Daniel.","Publicado pelo autor, Nova Iorque, 2013.","Processing, Physical Simulation, Advanced",English,[read online] natureofcode.com,Creative Commons BY-NC 3.0
+24,yes,"book, site",The Nature of Code: Simulating Natural Systems with Processing,"SHIFFMAN, Daniel.","Published by the author, New York, 2013.","Processing, Physical Simulation, Advanced",English,[read online] natureofcode.com,Creative Commons BY-NC 3.0
 25,yes,"book, site, PDF, ebook",Think Python - How to Think Like a Computer Scientist,"DOWNEY, Allen B.",O'Reilly; Green Tea Press,Python,English,[read online] www.greenteapress.com/thinkpython2/index.html,Creative Commons BY-NC 3.0
-26,yes,Article,What is Code?,"FORD, Paul.","Bloomberg, Businessweek, 11 de junho de 2015","Cultura digital, introductory",English,[read online] bloomberg.com/graphics/2015-paul-ford-what-is-code/,-
+26,yes,Article,What is Code?,"FORD, Paul.","Bloomberg, Businessweek, 11 de junho de 2015","Digital literacy, introductory",English,[read online] bloomberg.com/graphics/2015-paul-ford-what-is-code/,-
+27,no,"book, PDF, ebook",Exploratory Programming for the Arts and Humanities,"MONTFORD, Nick","MIT Press, 2016","Processing, Python, Javascript, Introductory",inglês,mitpress.mit.edu/exploratory,
+28,no,"book, site, PDF, ebook",Python for Everybody - Exploring Data In Python 3,"SEVERANCE, Charles","Published by the author, Michigan, 2016","Python, introductory",inglês,[leia online] pythonlearn.com/book.php,
