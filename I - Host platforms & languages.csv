@@ -13,7 +13,7 @@ partial,"Windows, Mac OS, Linux",Proprietary,Minecraft,[various],"blocks, Python
 partial,"Windows, Mac OS, Linux",FOSS,NodeBox 3,NodeBox,"nodes, Python","2D graphics, generative art, dataviz",www.nodebox.net/node/,
 partial,"Windows, Mac OS, Linux",FOSS,NodeBox for OpenGL,Python,Python,"2D graphics, generative art, dataviz",www.cityinabottle.org/nodebox/,
 partial,"Windows, Mac OS, Linux",FOSS,OpenFrameworks,C++,C,"2D and 3D graphics, interactive art, dataviz",openframeworks.cc/,
-partial,"Mac OS (aplicativo ou módulo Python), Windows e Linux (módulo Python)",FOSS,PlotDevice,Python,Python,"2D graphics, generative art, dataviz",plotdevice.io,http://plotdevice.io/extras/plotdevice-docs.zip
+partial,"Windows, Mac OS, Linux",FOSS,PlotDevice,Python,Python,"2D graphics, generative art, dataviz",plotdevice.io,http://plotdevice.io/extras/plotdevice-docs.zip
 yes,"Windows, Mac OS, Linux",FOSS,Processing ,Processing Java Mode,Java,"2D and 3D graphics, intetactive art, generative art, dataviz",processing.org,[Check the Books & References tab]
 yes,"Windows, Mac OS, Linux",FOSS,Processing,Processing Python Mode,Python,"2D and 3D graphics, intetactive art, generative art, dataviz",py.processing.org,[Check the Books & References tab]
 yes,"Windows, Mac OS, Linux",FOSS,P5*JS (Processing Foundation),P5*JS,Javascript,"2D and 3D graphics, intetactive art, generative art, dataviz",p5js.org,[Check the Books & References tab]
