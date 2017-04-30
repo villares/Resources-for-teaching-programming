@@ -3,7 +3,7 @@ partial,Windows,Proprietary,ArcGIS,Python,Python,"Plug-in tools, GIS, dataviz",r
 yes,"Windows, Mac OS","Proprietary, educational use at no cost",ArchiCAD,GDL,BASIC-like ,"Parametric objects, complex 3D geometry",gdl.graphisoft.com/,GDL Cookbook
 yes,"Windows, Mac OS, Linux",FOSS,Arduino,C/Wiring,C,"Physical computing, home automation, interactive art.",arduino.cc,
 partial,Windows,"Proprietary, educational use at no cost",Autocad,AutolLISP & VisualLISP,LISP,"Plug-in tools, complex 2D and 3D geometry",help.autodesk.com/view/ACD/2016/ENU/?guid=GUID-265AADB3-FB89-4D34-AA9D-6ADF70FF7D4B,
-partial,Windows,"Proprietary, educational use at no cost",Autocad,VBA,BASIC-like,"Plug-in tools, complex 2D and 3D geometry",,
+partial,Windows,"Proprietary, educational use at no cost",Autocad,VB.NET,BASIC-like,"Plug-in tools, complex 2D and 3D geometry",,
 yes,Windows,Proprietary (freeware?),Bentley ,Generative Components,nodes,Generative geometry in 3D,bentley.com/en/products/product-line/modeling-and-visualization-software/generativecomponents,
 yes,"Windows, Mac OS, Linux",FOSS,Blender,Python,Python,"Plug-in tools, complex 3D geometry",blender.org/manual/advanced/scripting/introduction.html,
 yes,"Windows, Mac OS",FOSS,Cinder,C++,C,"2D graphics, generative art, dataviz",libcinder.org/,
