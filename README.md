@@ -9,4 +9,5 @@ The original Portuguese-language version:
 https://github.com/villares/Recursos-para-o-ensino-de-programacao
 
 Copyright (c) 2014-2017 Alexandre B A Villares ([github.com/villares](https://github.com/villares))<br/>
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License [CC-BY-NC-SA-4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License<br/>
+[CC-BY-NC-SA-4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
