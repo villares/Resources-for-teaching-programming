@@ -1,7 +1,8 @@
 ## Resources for teaching programming for artists, designers and architects
 
 - The tables on a better looking format:
-https://docs.google.com/spreadsheets/d/1zXnO8fMvNyfBeddSDhuq_ymcMrSKFYuf3pjzynkoD5w/pubhtml
+http://villares.github.io/csv-to-html-table/host-platforms-and-languages
+http://villares.github.io/csv-to-html-table/books-and-references
 
 **Please consider feedback and/or a [small donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HCGAKACDMVNV2)!**
 
