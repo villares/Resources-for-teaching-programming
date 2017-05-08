@@ -29,8 +29,7 @@ yes,"Windows, Mac OS","Proprietary, educational use at no cost or reduced cost",
 yes,"Windows, Mac OS","Proprietary, educational use at no cost",Vectorworks,Marionette,nodes,Generative geometry in 3D,developer.vectorworks.net/index.php/Marionette,www.techlimits.com/index.php/vectorworks-2016-marionete
 yes,"Windows, Mac OS","Proprietary, educational use at no cost",Vectorworks,Vectorscript,Pascal,"Plug-in tools, parametric objects, complex 3D geometry",developer.vectorworks.net/index.php/VectorScript,https://stackoverflow.com/questions/263774/where-can-i-find-resources-on-vectorscript-programming-language
 yes,"Windows, Mac OS","Proprietary, educational use at no cost",Vectorworks,Python,Python,"Plug-in tools, parametric objects, complex 3D geometry",developer.vectorworks.net/index.php/Python,
-yes,online,-,"Trinket.io
-(Browser based)",Python,"blocks, Python, Javascript",Teaching,trinket.io,hourofpython.com
+yes,online,-,"Trinket.io (Browser based)",Python,"blocks, Python, Javascript",Teaching,trinket.io,hourofpython.com
 partial,online,-,"repl.it
 (Browser based)","Python
 [and many others]",Python [and others],Teaching,repl.it,
