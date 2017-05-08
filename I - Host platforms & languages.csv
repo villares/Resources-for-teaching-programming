@@ -30,9 +30,7 @@ yes,"Windows, Mac OS","Proprietary, educational use at no cost",Vectorworks,Mari
 yes,"Windows, Mac OS","Proprietary, educational use at no cost",Vectorworks,Vectorscript,Pascal,"Plug-in tools, parametric objects, complex 3D geometry",developer.vectorworks.net/index.php/VectorScript,https://stackoverflow.com/questions/263774/where-can-i-find-resources-on-vectorscript-programming-language
 yes,"Windows, Mac OS","Proprietary, educational use at no cost",Vectorworks,Python,Python,"Plug-in tools, parametric objects, complex 3D geometry",developer.vectorworks.net/index.php/Python,
 yes,online,-,"Trinket.io (Browser based)",Python,"blocks, Python, Javascript",Teaching,trinket.io,hourofpython.com
-partial,online,-,"repl.it
-(Browser based)","Python
-[and many others]",Python [and others],Teaching,repl.it,
+partial,online,-,"repl.it (Browser based)","Python [and many others]",Python [and others],Teaching,repl.it,
 no,"Windows, Mac OS, Linux",,BlueJ,Java,Java,Teaching,www.bluej.org,http://www.bluej.org/objects-first/,
 no,"Windows, Mac OS, Linux",,Greenfoot,Java,Java,Teaching,www.greenfoot.org/door,http://www.greenfoot.org/book/
 no,Windows,Proprietary,3D Max,Python,Python,3,docs.autodesk.com/3DSMAX/16/ENU/3ds-Max-Python-API-Documentation/index.html,,
