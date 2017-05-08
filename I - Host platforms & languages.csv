@@ -35,8 +35,8 @@ no,"Windows, Mac OS, Linux",,BlueJ,Java,Java,Teaching,www.bluej.org,http://www.b
 no,"Windows, Mac OS, Linux",,Greenfoot,Java,Java,Teaching,www.greenfoot.org/door,http://www.greenfoot.org/book/
 no,Windows,Proprietary,3D Max,Python,Python,3,docs.autodesk.com/3DSMAX/16/ENU/3ds-Max-Python-API-Documentation/index.html,
 no,Windows,Proprietary,3D Max,MAXScript,MAXScript,,,
-no,"Windows, Mac OS",Proprietary,Cinema 4D,Python,Python,,
-no,"Windows, Mac OS",Proprietary,Cinema 4D,Coffee,Coffee,,
+no,"Windows, Mac OS",Proprietary,Cinema 4D,Python,Python,,,
+no,"Windows, Mac OS",Proprietary,Cinema 4D,Coffee,Coffee,,,
 no,,Proprietary,Maya,Python,Python,,,,
 no,,,Unity,C#,C,"games, dataviz",,unity3d.com/learn/tutorials/topics/scripting
 no,,,Unreal Engine,Blueprints,blocks,"games, dataviz",,docs.unrealengine.com/latest/INT/Engine/Blueprints/GettingStarted/index.html
