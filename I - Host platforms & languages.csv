@@ -19,7 +19,6 @@ yes,"Windows, Mac OS, Linux",FOSS,Processing,Processing Python Mode,Python,"2D a
 yes,"Windows, Mac OS, Linux",FOSS,P5*JS (Processing Foundation),P5*JS,Javascript,"2D and 3D graphics, intetactive art, generative art, dataviz",p5js.org,[Check the Books & References tab]
 partial,"Windows, Mac OS, Linux",FOSS,QGIS,Python,Python,"Plug-in tools, GIS, dataviz",docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/intro.html,qgistutorials.com/en/docs/getting_started_with_pyqgis.html
 partial,Windows,"Proprietary, educational use at no cost",Revit,Revit Macros,"VB.NET, C#","Plug-in tools, complex 3D geometry",,https://knowledge.autodesk.com/support/revit-products/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Revit-Customize/files/GUID-4DFDA8CD-B0FD-492E-8EDE-A28C29B1E316-htm.html
-partial,Windows,"Proprietary, educational use at no cost","Revit, Vasari",RevitPythonShell,Python,"Plug-in tools, complex 3D geometry",github.com/architecture-building-systems/revitpythonshell/blob/master/README.md,
 yes,Windows,"Proprietary, educational use at no cost or reduced cost","Revit, Vasari & Dynamo Studio",Dynamo,"nodes, DesignScript",Generative geometry in 3D,dynamobim.org/,
 yes,Windows,"Proprietary, educational at reduced cost",Rhinoceros,Grasshopper,nodes,Generative geometry in 3D,grasshopper3d.com/,
 yes,"Windows, Mac OS","Proprietary, educational at reduced cost",Rhinoceros,Python,Python,"Plug-in tools, complex 3D geometry",wiki.mcneel.com/developer/python,
@@ -29,11 +28,13 @@ yes,"Windows, Mac OS","Proprietary, educational use at no cost or reduced cost",
 yes,"Windows, Mac OS","Proprietary, educational use at no cost",Vectorworks,Marionette,nodes,Generative geometry in 3D,developer.vectorworks.net/index.php/Marionette,www.techlimits.com/index.php/vectorworks-2016-marionete
 yes,"Windows, Mac OS","Proprietary, educational use at no cost",Vectorworks,Vectorscript,Pascal,"Plug-in tools, parametric objects, complex 3D geometry",developer.vectorworks.net/index.php/VectorScript,https://stackoverflow.com/questions/263774/where-can-i-find-resources-on-vectorscript-programming-language
 yes,"Windows, Mac OS","Proprietary, educational use at no cost",Vectorworks,Python,Python,"Plug-in tools, parametric objects, complex 3D geometry",developer.vectorworks.net/index.php/Python,
+partial,"Windows, Mac OS, Linux",FOSS,DrRackett,Racket/Rosetta,"Lisp, Python, Java","Education, parametric objects, complex 3D geometry",http://web.ist.utl.pt/antonio.menezes.leitao/Rosetta/tutorials/introduction.html,http://web.ist.utl.pt/antonio.menezes.leitao/Rosetta/tutorials/introduction.html
 yes,online,-,"Trinket.io (Browser based)",Python,"blocks, Python, Javascript",Teaching,trinket.io,hourofpython.com
 partial,online,-,"repl.it (Browser based)","Python [and many others]",Python [and others],Teaching,repl.it,
 no,"Windows, Mac OS, Linux",,BlueJ,Java,Java,Teaching,www.bluej.org,http://www.bluej.org/objects-first/
 no,"Windows, Mac OS, Linux",,Greenfoot,Java,Java,Teaching,www.greenfoot.org/door,http://www.greenfoot.org/book/
 no,Windows,Proprietary,3D Max,Python,Python,3,docs.autodesk.com/3DSMAX/16/ENU/3ds-Max-Python-API-Documentation/index.html,
+no,Windows,"Proprietary, educational use at no cost","Revit, Vasari",RevitPythonShell,Python,"Plug-in tools, complex 3D geometry",github.com/architecture-building-systems/revitpythonshell/blob/master/README.md,
 no,Windows,Proprietary,3D Max,MAXScript,MAXScript,,,
 no,"Windows, Mac OS",Proprietary,Cinema 4D,Python,Python,,,
 no,"Windows, Mac OS",Proprietary,Cinema 4D,Coffee,Coffee,,,
