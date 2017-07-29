@@ -33,7 +33,7 @@ yes,online,-,"Trinket.io (Browser based)",Python,"blocks, Python, Javascript",Te
 partial,online,-,"repl.it (Browser based)","Python [and many others]",Python [and others],Teaching,repl.it,
 no,"Windows, Mac OS, Linux",,BlueJ,Java,Java,Teaching,www.bluej.org,http://www.bluej.org/objects-first/
 no,"Windows, Mac OS, Linux",,Greenfoot,Java,Java,Teaching,www.greenfoot.org/door,http://www.greenfoot.org/book/
-no,Windows,Proprietary,3D Max,Python,Python,Plug-in tools, complex 3D geometry,docs.autodesk.com/3DSMAX/16/ENU/3ds-Max-Python-API-Documentation/index.html,
+no,Windows,Proprietary,3D Max,Python,Python,"Plug-in tools, complex 3D geometry",docs.autodesk.com/3DSMAX/16/ENU/3ds-Max-Python-API-Documentation/index.html,
 no,Windows,"Proprietary, educational use at no cost","Revit, Vasari",RevitPythonShell,Python,"Plug-in tools, complex 3D geometry",github.com/architecture-building-systems/revitpythonshell/blob/master/README.md,
 no,Windows,Proprietary,3D Max,MAXScript,MAXScript,,,
 no,"Windows, Mac OS",Proprietary,Cinema 4D,Python,Python,,,
