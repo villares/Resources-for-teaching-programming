@@ -6,7 +6,7 @@ The tables on a better looking sortable table:
 
 The Hosts, Platforms & Languages table is mention on this article:
 
-    Villares, A. B. A., & Moreira, D. (2017). **Python on the Landscape of Programming Tools for Design and Architectural Education**. [to be] Presented at the SIGRADI 2017, Concepcíon, Chile.
+> Villares, A. B. A., & Moreira, D. (2017). **Python on the Landscape of Programming Tools for Design and Architectural Education**. [to be] Presented at the SIGRADI 2017, Concepcíon, Chile.
 
 
 Copyright (c) 2014-2017 Alexandre B A Villares ([github.com/villares](https://github.com/villares))<br/>
