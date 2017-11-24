@@ -8,7 +8,7 @@
 
 This table was presented in:
 
-> Villares, A. B. A., & Moreira, D. (2017). [**Python on the Landscape of Programming Tools for Design and Architectural Education**](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017). Presented at the SIGRADI 2017, Concepcíon, Chile.
+> Villares, A. B. A., & Moreira, D. (2017). [**Python on the Landscape of Programming Tools for Design and Architectural Education**](../mestrado/VILLARES_MOREIRA_SIGRADI_2017). Presented at the SIGRADI 2017, Concepcíon, Chile.
 
 * [sortable table](http://villares.github.io/csv-to-html-table/host-platforms-and-languages)
 
