@@ -16,7 +16,7 @@ This table was presented in:
  
 * [Raw CSV](https://raw.githubusercontent.com/villares/Resources-for-teaching-programming/master/I%20-%20Host%20platforms%20%26%20languages.csv)
 
-## Books and reference
+## Books and references
 
 * [sortable table](http://villares.github.io/csv-to-html-table/books-and-references)
 
