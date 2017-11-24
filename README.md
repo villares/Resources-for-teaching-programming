@@ -2,7 +2,7 @@
 
 # Resources for Teaching Programming For Artists, Designers and Architects
 
-**Please consider feedback and/or a small [donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HCGAKACDMVNV2)!**
+**Please consider feedback, colaboration by means of pull requests, and/or a small [donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HCGAKACDMVNV2)!**
  
 ## Hosts, Platforms & Languages
 
