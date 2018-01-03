@@ -1,44 +1,48 @@
-Evaluated,OS,License,Host/IDE,Language/Library,Syntax,Main uses,Official site,Recomended Ref.
-partial,Windows,Proprietary,ArcGIS,Python,Python,"Plug-in tools, GIS, dataviz",resources.arcgis.com/en/communities/python/,
-yes,"Windows, Mac OS","Proprietary, educational use at no cost",ArchiCAD,GDL,BASIC-like ,"Parametric objects, complex 3D geometry",gdl.graphisoft.com/,GDL Cookbook
-yes,"Windows, Mac OS, Linux",FOSS,Arduino,C/Wiring,C-like,"Physical computing, home automation, interactive art.",arduino.cc,
-partial,Windows,"Proprietary, educational use at no cost",Autocad,AutolLISP & VisualLISP,Lisp-like,"Plug-in tools, complex 2D and 3D geometry",help.autodesk.com/view/ACD/2016/ENU/?guid=GUID-265AADB3-FB89-4D34-AA9D-6ADF70FF7D4B,
-partial,Windows,"Proprietary, educational use at no cost",Autocad,VB.NET,VB.NET,"Plug-in tools, complex 2D and 3D geometry",,
-yes,Windows,Proprietary (freeware?),Bentley ,Generative Components,nodes,Generative geometry in 3D,bentley.com/en/products/product-line/modeling-and-visualization-software/generativecomponents,
-yes,"Windows, Mac OS, Linux",FOSS,Blender,Python,Python,"Plug-in tools, complex 3D geometry",blender.org/manual/advanced/scripting/introduction.html,
-yes,"Windows, Mac OS",FOSS,Cinder,C++,C-like,"2D graphics, generative art, dataviz",libcinder.org/,
-yes,Mac OS,FOSS,Drawbot,Python,Python,"2D graphics, generative art, dataviz",www.drawbot.com/,
-partial,"Windows, Mac OS, Linux",FOSS,FreeCAD,Python,Python,"Plug-in tools, complex 2D and 3D geometry",www.freecadweb.org,http://www.freecadweb.org/wiki/index.php?title=FreeCAD_Scripting_Basics
-partial,"Windows, Mac OS, Linux",Proprietary,Minecraft,[various],"blocks, Python, Javascript, Lua","Education, games",,http://computercraftedu.com/ http://pi.minecraft.net/?page_id=14
-partial,"Windows, Mac OS, Linux",FOSS,NodeBox 3,NodeBox,"nodes, Python","2D graphics, generative art, dataviz",www.nodebox.net/node/,
-partial,"Windows, Mac OS, Linux",FOSS,NodeBox for OpenGL,Python,Python,"2D graphics, generative art, dataviz",www.cityinabottle.org/nodebox/,
-partial,"Windows, Mac OS, Linux",FOSS,OpenFrameworks,C++,C-like,"2D and 3D graphics, interactive art, dataviz",openframeworks.cc/,
-partial,"Windows, Mac OS, Linux",FOSS,PlotDevice,Python,Python,"2D graphics, generative art, dataviz",plotdevice.io,http://plotdevice.io/extras/plotdevice-docs.zip
-yes,"Windows, Mac OS, Linux",FOSS,Processing ,Processing Java Mode,Java,"2D and 3D graphics, intetactive art, generative art, dataviz",processing.org,[Check the Books & References tab]
-yes,"Windows, Mac OS, Linux",FOSS,Processing,Processing Python Mode,Python,"2D and 3D graphics, intetactive art, generative art, dataviz",py.processing.org,[Check the Books & References tab]
-yes,"Windows, Mac OS, Linux",FOSS,P5*JS (Processing Foundation),P5*JS,Javascript,"2D and 3D graphics, intetactive art, generative art, dataviz",p5js.org,[Check the Books & References tab]
-partial,"Windows, Mac OS, Linux",FOSS,QGIS,Python,Python,"Plug-in tools, GIS, dataviz",docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/intro.html,qgistutorials.com/en/docs/getting_started_with_pyqgis.html
-partial,Windows,"Proprietary, educational use at no cost",Revit,Revit Macros (VB.NET or C#),"VB.NET, C-like","Plug-in tools, complex 3D geometry",,https://knowledge.autodesk.com/support/revit-products/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Revit-Customize/files/GUID-4DFDA8CD-B0FD-492E-8EDE-A28C29B1E316-htm.html
-yes,Windows,"Proprietary, educational use at no cost or reduced cost","Revit, Vasari & Dynamo Studio",Dynamo,"nodes, DesignScript",Generative geometry in 3D,dynamobim.org/,
-yes,Windows,"Proprietary, educational at reduced cost",Rhinoceros,Grasshopper,nodes,Generative geometry in 3D,grasshopper3d.com/,
-yes,"Windows, Mac OS","Proprietary, educational at reduced cost",Rhinoceros,Python,Python,"Plug-in tools, complex 3D geometry",wiki.mcneel.com/developer/python,
-yes,"Windows, Mac OS","Proprietary, educational at reduced cost",Rhinoceros,Rhinoscript,VBScript,"Plug-in tools, complex 3D geometry",wiki.mcneel.com/developer/rhinoscript,
-yes,"Windows, Mac OS, Linux",FOSS,Scratch,Scratch,blocks,"Education, games",scratch.mit.edu/,scratch.mit.edu
-yes,"Windows, Mac OS","Proprietary, educational use at no cost or reduced cost",SketchUp,Ruby,Ruby,"Plug-in tools, complex 3D geometry",www.sketchup.com/intl/en/developer/,Livro Automatic SketchUp
-yes,"Windows, Mac OS","Proprietary, educational use at no cost",Vectorworks,Marionette,nodes,Generative geometry in 3D,developer.vectorworks.net/index.php/Marionette,www.techlimits.com/index.php/vectorworks-2016-marionete
-yes,"Windows, Mac OS","Proprietary, educational use at no cost",Vectorworks,Vectorscript,Pascal,"Plug-in tools, parametric objects, complex 3D geometry",developer.vectorworks.net/index.php/VectorScript,https://stackoverflow.com/questions/263774/where-can-i-find-resources-on-vectorscript-programming-language
-yes,"Windows, Mac OS","Proprietary, educational use at no cost",Vectorworks,Python,Python,"Plug-in tools, parametric objects, complex 3D geometry",developer.vectorworks.net/index.php/Python,
-partial,"Windows, Mac OS, Linux",FOSS,DrRackett,Racket/Rosetta,"Lisp-like, Python, Java","Education, parametric objects, complex 3D geometry",http://web.ist.utl.pt/antonio.menezes.leitao/Rosetta/tutorials/introduction.html,http://web.ist.utl.pt/antonio.menezes.leitao/Rosetta/tutorials/introduction.html
-yes,online,-,"Trinket.io (Browser based)",Python,"blocks, Python, Javascript",Teaching,trinket.io,hourofpython.com
-partial,online,-,"repl.it (Browser based)","Python [and many others]",Python [and others],Teaching,repl.it,
-no,"Windows, Mac OS, Linux",,BlueJ,Java,Java,Teaching,www.bluej.org,http://www.bluej.org/objects-first/
-no,"Windows, Mac OS, Linux",,Greenfoot,Java,Java,Teaching,www.greenfoot.org/door,http://www.greenfoot.org/book/
-no,Windows,Proprietary,3D Max,Python,Python,"Plug-in tools, complex 3D geometry",docs.autodesk.com/3DSMAX/16/ENU/3ds-Max-Python-API-Documentation/index.html,
-no,Windows,"Proprietary, educational use at no cost","Revit, Vasari",RevitPythonShell,Python,"Plug-in tools, complex 3D geometry",github.com/architecture-building-systems/revitpythonshell/blob/master/README.md,
-no,Windows,Proprietary,3D Max,MAXScript,MAXScript,,,
-no,"Windows, Mac OS",Proprietary,Cinema 4D,Python,Python,,,
-no,"Windows, Mac OS",Proprietary,Cinema 4D,Coffee,Coffee,,,
-no,,Proprietary,Maya,Python,Python,,,
-no,,,Unity,C#,C-like,"games, dataviz",,unity3d.com/learn/tutorials/topics/scripting
-no,,,Unreal Engine,"Blueprints, C++","blocks, C-Like","games, dataviz",,docs.unrealengine.com/latest/INT/Engine/Blueprints/GettingStarted/index.html
-no,"Windows, Mac OS, Linux",Proprietary,Stencyl,Stencyl,"blocks, Java","games, teaching",www.stencyl.com,
+ID,Evaluation,OS,License,Host/IDE,Language/Library,Syntax,Main uses,Official site,Recommended Ref.
+10,yes,"Windows, Mac OS","Proprietary, educational use at no cost",ArchiCAD,GDL,BASIC-like ,"Parametric objects, complex 3D geometry",gdl.graphisoft.com/,GDL Cookbook
+20,yes,"Windows, Mac OS, Linux",FOSS,Arduino,C/Wiring,C,"Physical computing, home automation, interactive art.",arduino.cc,
+30,yes,Windows,"Proprietary, available at no cost",Bentley ,Generative Components,nodes,Generative geometry in 3D,bentley.com/en/products/product-line/modeling-and-visualization-software/generativecomponents,
+40,yes,"Windows, Mac OS, Linux",FOSS,Blender,Python,Python,"Plug-in tools, complex 3D geometry",blender.org/manual/advanced/scripting/introduction.html,
+50,yes,"Windows, Mac OS",FOSS,Cinder,C++,C,"2D graphics, generative art, dataviz",libcinder.org/,
+60,yes,Mac OS,FOSS,Drawbot,Python,Python,"2D graphics, generative art, dataviz",www.drawbot.com/,
+70,yes,"Windows, Mac OS, Linux",FOSS,Processing ,Processing Java Mode,Java,"2D and 3D graphics, intetactive art, generative art, dataviz",processing.org,[Check the Books & References tab]
+71,yes,"Windows, Mac OS, Linux",FOSS,Processing,Processing Python Mode,Python,"2D and 3D graphics, intetactive art, generative art, dataviz",py.processing.org,[Check the Books & References tab]
+72,yes,"Windows, Mac OS, Linux",FOSS,P5*JS (Processing Foundation),P5*JS,JavaScript,"2D and 3D graphics, intetactive art, generative art, dataviz",p5js.org,[Check the Books & References tab]
+80,yes,Windows,"Proprietary, educational use at no cost or reduced cost","Revit, Vasari & Dynamo Studio",Dynamo,"nodes, DesignScript",Generative geometry in 3D,dynamobim.org/,
+90,yes,Windows,"Proprietary, educational at reduced cost",Rhinoceros,Grasshopper,nodes,Generative geometry in 3D,grasshopper3d.com/,
+91,yes,"Windows, Mac OS","Proprietary, educational at reduced cost",Rhinoceros,Python,Python,"Plug-in tools, complex 3D geometry",wiki.mcneel.com/developer/python,
+92,yes,"Windows, Mac OS","Proprietary, educational at reduced cost",Rhinoceros,Rhinoscript,VBScript,"Plug-in tools, complex 3D geometry",wiki.mcneel.com/developer/rhinoscript,
+100,yes,"Windows, Mac OS, Linux",FOSS,Scratch,Scratch,blocks,"Education, games",scratch.mit.edu/,scratch.mit.edu
+110,yes,"Windows, Mac OS","Proprietary, educational use at no cost or reduced cost",SketchUp,Ruby,Ruby,"Plug-in tools, complex 3D geometry",www.sketchup.com/intl/en/developer/,Livro Automatic SketchUp
+120,yes,"Windows, Mac OS","Proprietary, educational use at no cost",Vectorworks,Marionette,nodes,Generative geometry in 3D,developer.vectorworks.net/index.php/Marionette,www.techlimits.com/index.php/vectorworks-2016-marionete
+121,yes,"Windows, Mac OS","Proprietary, educational use at no cost",Vectorworks,Vectorscript,Pascal,"Plug-in tools, parametric objects, complex 3D geometry",developer.vectorworks.net/index.php/VectorScript,https://stackoverflow.com/questions/263774/where-can-i-find-resources-on-vectorscript-programming-language
+122,yes,"Windows, Mac OS","Proprietary, educational use at no cost",Vectorworks,Python,Python,"Plug-in tools, parametric objects, complex 3D geometry",developer.vectorworks.net/index.php/Python,
+130,yes,online,-,"Trinket.io
+(Browser based)",Python,"blocks, Python, JavaScript",Education,trinket.io,hourofpython.com
+140,partial,Windows,Proprietary,ArcGIS,Python,Python,"Plug-in tools, GIS, dataviz",resources.arcgis.com/en/communities/python/,
+150,partial,Windows,"Proprietary, educational use at no cost",Autocad,AutolLISP & VisualLISP,LISP,"Plug-in tools, complex 2D and 3D geometry",help.autodesk.com/view/ACD/2016/ENU/?guid=GUID-265AADB3-FB89-4D34-AA9D-6ADF70FF7D4B,
+151,partial,Windows,"Proprietary, educational use at no cost",Autocad,VB.NET,BASIC-like ,"Plug-in tools, complex 2D and 3D geometry",http://help.autodesk.com/view/ACD/2016/ENU/?guid=GUID-2CD40631-D67B-4DF0-A2C4-606E9B613252,
+160,partial,"Windows, Mac OS, Linux",FOSS,FreeCAD,Python,Python,"Plug-in tools, complex 2D and 3D geometry",www.freecadweb.org,http://www.freecadweb.org/wiki/index.php?title=FreeCAD_Scripting_Basics
+170,partial,"Windows, Mac OS, Linux",Proprietary,Minecraft,[various],"blocks, Python, JavaScript, Lua","Education, games",,http://computercraftedu.com/ http://pi.minecraft.net/?page_id=14
+180,partial,"Windows, Mac OS, Linux",FOSS,NodeBox 3,NodeBox,"nodes, Python","2D graphics, generative art, dataviz",www.nodebox.net/node/,
+181,partial,"Windows, Mac OS, Linux",FOSS,NodeBox for OpenGL,Python,Python,"2D graphics, generative art, dataviz",www.cityinabottle.org/nodebox/,
+190,partial,"Windows, Mac OS, Linux",FOSS,OpenFrameworks,C++,C,"2D and 3D graphics, interactive art, dataviz",openframeworks.cc/,
+200,partial,"Mac OS (aplicativo ou módulo Python), Windows e Linux (módulo Python)",FOSS,PlotDevice,Python,Python,"2D graphics, generative art, dataviz",plotdevice.io,http://plotdevice.io/extras/plotdevice-docs.zip
+210,partial,"Windows, Mac OS, Linux",FOSS,QGIS,Python,Python,"Plug-in tools, GIS, dataviz",docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/intro.html,qgistutorials.com/en/docs/getting_started_with_pyqgis.html
+81,partial,Windows,"Proprietary, educational use at no cost",Revit,Revit Macros,"VB.NET, C#","Plug-in tools, complex 3D geometry",,https://knowledge.autodesk.com/support/revit-products/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Revit-Customize/files/GUID-4DFDA8CD-B0FD-492E-8EDE-A28C29B1E316-htm.html
+220,partial,online,-,"repl.it
+(Browser based)","Python
+[and many others]",Python [and others],Education,repl.it,
+230,partial,"Windows, Mac OS, Linux",FOSS,DrRackett,Racket/Rosetta,"Lisp-like, Python, Java","Education, generative 3D geometry, complex 3D geometry",http://web.ist.utl.pt/antonio.menezes.leitao/Rosetta/tutorials/introduction.html,http://web.ist.utl.pt/antonio.menezes.leitao/Rosetta/tutorials/introduction.html
+82,no,Windows,"Proprietary, educational use at no cost","Revit, Vasari",RevitPythonShell,Python,"Plug-in tools, complex 3D geometry",github.com/architecture-building-systems/revitpythonshell/blob/master/README.md,
+240,no,"Windows, Mac OS, Linux",,BlueJ,Java,Java,Education,www.bluej.org/,http://www.bluej.org/objects-first/
+250,no,"Windows, Mac OS, Linux",,Greenfoot,Java,Java,Education,www.greenfoot.org/door,http://www.greenfoot.org/book/
+260,no,Windows,Proprietary,3D Max,Python,Python,3D,docs.autodesk.com/3DSMAX/16/ENU/3ds-Max-Python-API-Documentation/index.html,
+261,no,Windows,Proprietary,3D Max,MAXScript,MAXScript,3D,,
+270,no,"Windows, Mac OS",Proprietary,Cinema 4D,Python,Python,3D,,
+271,no,"Windows, Mac OS",Proprietary,Cinema 4D,Coffee,Coffee,3D,,
+280,no,,Proprietary,Maya,Python,Python,3D,,
+290,no,,,Unity,C#,C,"games, dataviz",,https://unity3d.com/learn/tutorials/topics/scripting
+300,no,,,Unreal Engine,"Blueprints, C++","blocks, C","games, dataviz",,https://docs.unrealengine.com/latest/INT/Engine/Blueprints/GettingStarted/index.html
+310,no,"Windows, Mac OS, Linux",Proprietary,Stencyl,Stencyl,"blocks, Java","Education, games",http://www.stencyl.com/,
+320,no,"Windows, Mac OS","Proprietary, educational use at no cost",Fusion360,"Python, C++","Python, C-like","Plug-in tools, complex 3D geometry",,http://help.autodesk.com/view/fusion360/ENU/?guid=GUID-A92A4B10-3781-4925-94C6-47DA85A4F65A
