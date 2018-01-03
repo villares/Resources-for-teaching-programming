@@ -26,6 +26,6 @@ This table was presented in:
 
 ----
 
-Copyright (c) 2014-2017 [Alexandre B A Villares] (https://abav.lugaralgum.com)<br/>
+Copyright (c) 2014-2017 [Alexandre B A Villares](https://abav.lugaralgum.com)<br/>
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License<br/>
 [CC-BY-NC-SA-4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
