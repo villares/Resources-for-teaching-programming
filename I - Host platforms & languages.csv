@@ -46,3 +46,4 @@ ID,Evaluation,OS,License,Host/IDE,Language/Library,Syntax,Main uses,Official sit
 300,no,,,Unreal Engine,"Blueprints, C++","blocks, C","games, dataviz",,https://docs.unrealengine.com/latest/INT/Engine/Blueprints/GettingStarted/index.html
 310,no,"Windows, Mac OS, Linux",Proprietary,Stencyl,Stencyl,"blocks, Java","Education, games",http://www.stencyl.com/,
 320,no,"Windows, Mac OS","Proprietary, educational use at no cost",Fusion360,"Python, C++","Python, C-like","Plug-in tools, complex 3D geometry",,http://help.autodesk.com/view/fusion360/ENU/?guid=GUID-A92A4B10-3781-4925-94C6-47DA85A4F65A
+330,partial,"Windows, Mac OS, Linux",FOSS, [Any IDE] ,Pygame Zero, Python,"Education, Games,  interactive 2D graphics", http://pygame-zero.readthedocs.org/,https://pygame-zero.readthedocs.io/en/stable/
