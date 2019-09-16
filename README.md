@@ -2,17 +2,6 @@
 
 # Resources for Teaching Programming For Artists, Designers and Architects
 
-## Processing + Python tools
-
-| Name | Processing features | based on (& Python version) | Python standard library | libraries ecosystem | main features | main limitations |
-| --- | --- | --- | --- | --- | --- | --- |
-Processing Python Mode | Processing Java equivalent | Jython (Python 2) | almost complete | Processing Java | available inside Processing IDE, very Processing compatible | no web deployment, no modern Python libs |
-SkulptIDE | ProcessingJS | Skulpt (Python 2) | ? | no libraries |  web IDE | ProcessingJS is defunct, not extensible
-BrythonIDE | p5js | Brython (Python 3) | ? | JavaScript & p5js |  browser IDE & browser based sketches! | big downloads, can be slow  |
-pyp5js | p5js | Transcrypt (Python 3) | incomplete | JavaScript & p5js |  browser based sketches! | JS libraries only, command line interface, experimental? |
-future pyp5js | p5js | Pyodide (Python 3) | complete | Python, JavaScript & p5js |  browser based sketches! | ? |
-
-
 ## Extended table of Hosts, Platforms & Languages
 
 Table presented in:
