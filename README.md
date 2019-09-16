@@ -9,7 +9,7 @@
 [Processing Python Mode](https://py.processing.org) | Processing Java | Jython (Python 2) | complete | Processing Java | available inside Processing IDE, very Processing compatible | no web deployment, no modern Python libs |
 [SkulptIDE](http://esperanc.github.io/skulptIde/pages.html) and [trinket.io](https://trinket.io/processing) | ProcessingJS | Skulpt (Python 2) | partial | unknown, possibly JavaScript |  very nice web IDE, browser based sketches | ProcessingJS is defunct; not extensible
 [BrythonIDE](https://esperanc.github.io/brythonide/) | p5.js | Brython (Python 3) | [fairly complete](https://brython.info/static_doc/en/stdlib.html)| JavaScript & p5.js |  browser IDE, browser based sketches & very p5.js compatible | big downloads, can be slow  |
-[p5py](https://github.com/p5py/p5) | new inplementation, vey incomplete |  Python 3 | complete | Python only | truly Python compatible | no web deployment, very different API from Processing, still very incomplete |
+[p5py](https://github.com/p5py/p5) | a new inplementation (incomplete) |  Python 3 | complete | Python only | truly Python compatible | no web deployment, very different API from Processing, still very incomplete |
 [pyp5js](https://github.com/berinhard/pyp5js) | p5.js | Transcrypt (Python 3) | incomplete | JavaScript & p5.js |  browser based sketches! very p5js compatible| JS libraries only, command line interface |
 (future pyp5js) | p5js | [Pyodide](https://luxapodular.github.io/Py5.js/) (Python 3) | complete | Python, JavaScript & p5.js |  browser based sketches! very p5.js compatible & very Python compatible | (not ready yet) |
 
