@@ -2,11 +2,20 @@
 
 # Resources for Teaching Programming For Artists, Designers and Architects
 
-**Please consider feedback, colaboration by means of pull requests, and/or a small [donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HCGAKACDMVNV2)!**
+## Processing + Python tools
 
-## Hosts, Platforms & Languages
+| Name | Processing features | based on | Python version | Python standard library | libraries ecosystem | main features | main limitations |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+Processing Python Mode | Processing Java equivalent | Jython | Python 2 | almost complete | Processing Java | available inside Processing IDE, very Processing compatible | no web deployment, no modern Python libs |
+SkulptIDE | ProcessingJS | Skulpt | Python 2 | ? | no libraries |  web IDE | ProcessingJS is defunct, not extensible
+BrythonIDE | p5js | Brython | Python 3 | ? | JavaScript & p5js |  browser IDE & browser based sketches! | big downloads, can be slow  |
+pyp5js | p5js | Transcrypt | Python 3 | incomplete | JavaScript & p5js |  browser based sketches! | JS libraries only, command line interface, experimental? |
+future pyp5js | p5js | Pyodide | Python 3 | complete | Python, JavaScript & p5js |  browser based sketches! | ? |
 
-This table was presented in:
+
+## Extended table of Hosts, Platforms & Languages
+
+Table presented in:
 
 > Villares, A. B. A., & Moreira, D. (2017). [**Python on the Landscape of Programming Tools for Design and Architectural Education**](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017). Presented at the SIGRADI 2017, Concepcíon, Chile.
 
@@ -23,6 +32,10 @@ This table was presented in:
 * [CSV on GitHub](https://github.com/villares/Resources-for-teaching-programming/blob/master/II%20-%20Books%20%26%20References.csv)
 
 * [Raw CSV](https://raw.githubusercontent.com/villares/Resources-for-teaching-programming/master/II%20-%20Books%20%26%20References.csv)
+
+----
+
+**Please consider feedback, colaboration by means of pull requests, and/or a small [donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HCGAKACDMVNV2)!**
 
 ----
 
