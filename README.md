@@ -2,9 +2,13 @@
 
 # Resources for Teaching Programming For Artists, Designers and Architects
 
+## Processing + Python tools
+
+...
+
 ## Extended table of Hosts, Platforms & Languages
 
-Table presented in:
+Earlier table presented in:
 
 > Villares, A. B. A., & Moreira, D. (2017). [**Python on the Landscape of Programming Tools for Design and Architectural Education**](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017). Presented at the SIGRADI 2017, Concepcíon, Chile.
 
