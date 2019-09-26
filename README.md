@@ -14,7 +14,7 @@
 [BrythonIDE](https://esperanc.github.io/brythonide/) | [p5.js](https://p5js.org/) | [Brython](https://brython.info/) (Python 3) | [fairly complete](https://brython.info/static_doc/en/stdlib.html)| JavaScript & p5.js |  browser IDE, browser based sketches & very p5.js compatible | big downloads, can be slow  |
 [p5py](https://github.com/p5py/p5) | a new inplementation (incomplete) |  Python 3 | complete | Python only | truly Python compatible | no web deployment, very different API from Processing, still very incomplete |
 [pyp5js](https://github.com/berinhard/pyp5js) | [p5.js](https://p5js.org/) | [Transcrypt](https://transcrypt.org/documentation) (Python 3) | incomplete | JavaScript & p5.js |  browser based sketches! very p5js compatible| JS libraries only, command line interface |
-(future pyp5js) | [p5js](https://p5js.org/) | [Pyodide](https://luxapodular.github.io/Py5.js/) (Python 3) | complete | Python, JavaScript & p5.js |  browser based sketches! very p5.js compatible & very Python compatible | (not ready yet) |
+(future pyp5js) | [p5.js](https://p5js.org/) | [Pyodide](https://luxapodular.github.io/Py5.js/) (Python 3) | complete | Python, JavaScript & p5.js |  browser based sketches! very p5.js compatible & very Python compatible | (not ready yet) |
 
 
 ### Extended table of Hosts, Platforms & Languages
@@ -44,6 +44,4 @@ Earlier table presented in:
 
 ----
 
-Copyright (c) 2014-2017 [Alexandre B A Villares](https://abav.lugaralgum.com)<br/>
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License<br/>
-[CC-BY-NC-SA-4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Copyright (c) 2014-2017 [Alexandre B A Villares](https://abav.lugaralgum.com). This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. [CC-BY-NC-SA-4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
