@@ -1,8 +1,9 @@
 ----
 
 # Resources for Teaching Programming For Artists, Designers and Architects
+[github repository](https://github.com/villares/Resources-for-teaching-programming/)
 
-## Processing + Python tools
+### Processing + Python tools
 
 | Name | Processing features | based on (& Python version) | Python standard library | libraries ecosystem | main features | main limitations |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -13,7 +14,7 @@
 [pyp5js](https://github.com/berinhard/pyp5js) | [p5.js](https://p5js.org/) | [Transcrypt](https://transcrypt.org/documentation) (Python 3) | incomplete | JavaScript & p5.js |  browser based sketches! very p5js compatible| JS libraries only, command line interface |
 (future pyp5js) | [p5js](https://p5js.org/) | [Pyodide](https://luxapodular.github.io/Py5.js/) (Python 3) | complete | Python, JavaScript & p5.js |  browser based sketches! very p5.js compatible & very Python compatible | (not ready yet) |
 
-## Extended table of Hosts, Platforms & Languages
+### Extended table of Hosts, Platforms & Languages
 
 Earlier table presented in:
 
@@ -25,7 +26,7 @@ Earlier table presented in:
 
 * [Raw CSV](https://raw.githubusercontent.com/villares/Resources-for-teaching-programming/master/I%20-%20Host%20platforms%20%26%20languages.csv)
 
-## Books and references
+### Books and references
 
 * [sortable table](http://villares.github.io/csv-to-html-table/books-and-references)
 
