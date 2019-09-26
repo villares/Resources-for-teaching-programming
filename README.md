@@ -1,6 +1,6 @@
 ----
 
-# Resources for teaching programming</br>for artists, designers and architects
+# Resources for teaching programming </br> for artists, designers and architects
 [github repository](https://github.com/villares/Resources-for-teaching-programming/)
 
 
