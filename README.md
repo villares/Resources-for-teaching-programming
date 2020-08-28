@@ -13,8 +13,8 @@
 [SkulptIDE](http://esperanc.github.io/skulptIde/pages.html) and [trinket.io](https://trinket.io/processing) | [ProcessingJS](http://processingjs.org/) | [Skulpt](http://skulpt.org/) (Python 2, going to 3 now) | partial | unknown, possibly JavaScript |  very nice web IDE, browser based sketches | ProcessingJS is defunct; not extensible
 [BrythonIDE](https://esperanc.github.io/brythonide/) | [p5.js](https://p5js.org/) | [Brython](https://brython.info/) (Python 3) | [fairly complete](https://brython.info/static_doc/en/stdlib.html)| JavaScript & p5.js |  browser IDE, browser based sketches & very p5.js compatible | big downloads, can be slow  |
 [p5py](https://github.com/p5py/p5) | a new inplementation (incomplete) |  Python 3 | complete | Python only | truly Python compatible | no web deployment, very different API from Processing, still very incomplete |
-[pyp5js](https://github.com/berinhard/pyp5js) | [p5.js](https://p5js.org/) | [Transcrypt](https://transcrypt.org/documentation) (Python 3) | incomplete | JavaScript & p5.js |  browser based sketches! very p5js compatible| JS libraries only, command line interface |
-(future pyp5js) | [p5.js](https://p5js.org/) | [Pyodide](https://luxapodular.github.io/Py5.js/) (Python 3) | complete | Python, JavaScript & p5.js |  browser based sketches! very p5.js compatible & very Python compatible | (not ready yet) |
+[pyp5js](https://github.com/berinhard/pyp5js) | [p5.js](https://p5js.org/) | [Transcrypt](https://transcrypt.org/documentation) (Python 3) | incomplete | JavaScript & p5.js |  web ready sketches, very p5js compatible and nice browser editor| JS libraries only, starts at the command line |
+(future pyp5js) | [p5.js](https://p5js.org/) | [Pyodide](https://luxapodular.github.io/Py5.js/) (Python 3) | complete | Python, JavaScript & p5.js |  web ready sketches! very p5.js compatible & very Python compatible | (not ready yet) |
 
 
 ### Extended table of Hosts, Platforms & Languages
