@@ -10,11 +10,9 @@ Earlier table presented in:
 
 > Villares, A. B. A., & Moreira, D. (2017). [**Python on the Landscape of Programming Tools for Design and Architectural Education**](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017). Presented at the SIGRADI 2017, Concepcíon, Chile.
 
-* [sortable table](http://villares.github.io/csv-to-html-table/host-platforms-and-languages)
-
-* [CSV on GitHub](https://github.com/villares/Resources-for-teaching-programming/blob/master/I%20-%20Host%20platforms%20%26%20languages.csv)
-
-* [Raw CSV](https://raw.githubusercontent.com/villares/Resources-for-teaching-programming/master/I%20-%20Host%20platforms%20%26%20languages.csv)
+| | | | 
+| --- | --- | --- |
+| [sortable table](http://villares.github.io/csv-to-html-table/host-platforms-and-languages)| [CSV on GitHub](https://github.com/villares/Resources-for-teaching-programming/blob/master/I%20-%20Host%20platforms%20%26%20languages.csv) | [raw CSV](https://raw.githubusercontent.com/villares/Resources-for-teaching-programming/master/I%20-%20Host%20platforms%20%26%20languages.csv) |
 
 ### Processing + Python tools table
 
@@ -28,14 +26,10 @@ Earlier table presented in:
 (future pyp5js) | [p5.js](https://p5js.org/) | [Pyodide](https://luxapodular.github.io/Py5.js/) (Python 3) | complete | Python, JavaScript & p5.js |  web ready sketches! very p5.js compatible & very Python compatible | (not ready yet) |
 
 
-
 ### Books and references
-
-* [sortable table](http://villares.github.io/csv-to-html-table/books-and-references)
-
-* [CSV on GitHub](https://github.com/villares/Resources-for-teaching-programming/blob/master/II%20-%20Books%20%26%20References.csv)
-
-* [Raw CSV](https://raw.githubusercontent.com/villares/Resources-for-teaching-programming/master/II%20-%20Books%20%26%20References.csv)
+| | | | 
+| --- | --- | --- |
+| [sortable table](http://villares.github.io/csv-to-html-table/books-and-references) | [CSV on GitHub](https://github.com/villares/Resources-for-teaching-programming/blob/master/II%20-%20Books%20%26%20References.csv) | [raw CSV](https://raw.githubusercontent.com/villares/Resources-for-teaching-programming/master/II%20-%20Books%20%26%20References.csv) |
 
 ----
 
