@@ -1,14 +1,13 @@
 ----
 
 # Resources for teaching programming
-# for artists, designers and architects
-[github repository](https://github.com/villares/Resources-for-teaching-programming/)
+# for artists, designers and architects [repository](https://github.com/villares/Resources-for-teaching-programming/)
 
 ### Extended table of Hosts, Platforms & Languages
 
-Earlier table presented in:
+Data and an earlier version of the table was presented in:
 
-> Villares, A. B. A., & Moreira, D. (2017). [**Python on the Landscape of Programming Tools for Design and Architectural Education**](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017). Presented at the SIGRADI 2017, Concepcíon, Chile.
+Villares, A. B. A., & Moreira, D. (2017). [**Python on the Landscape of Programming Tools for Design and Architectural Education**](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017). Presented at the SIGRADI 2017, Concepcíon, Chile.
 
 | | | | 
 | --- | --- | --- |
