@@ -16,12 +16,11 @@ An earlier version of this table was presented in: *Villares, A. B. A., & Moreir
 | Name | Processing features | based on (& Python version) | Python standard library | libraries ecosystem | main features | main limitations |
 | --- | --- | --- | --- | --- | --- | --- |
 [Processing Python Mode](https://py.processing.org) | [Processing Java](https://processing.org) | [Jython](https://www.jython.org/) (Python 2) | complete | Java & Processing Java | available inside Processing IDE, very Processing compatible | no web deployment, no modern Python libs |
+[p5py](https://github.com/p5py/p5) | a new inplementation (incomplete) |  Python 3 | complete | Python only | truly Python compatible | no web deployment, still incomplete |
+[pyp5js](https://github.com/berinhard/pyp5js) (transcrypt mode) | [p5.js](https://p5js.org/) | [Transcrypt](https://transcrypt.org/documentation) (Python 3) | incomplete | JavaScript & p5.js |  web ready sketches, very p5js compatible and nice browser editor| JS libraries only, starts at the command line |
+pyp5js (pyodide mode)| [p5.js](https://p5js.org/) | [Pyodide](https://luxapodular.github.io/Py5.js/) (Python 3) | complete | Python, JavaScript & p5.js |  web ready sketches! very p5.js compatible & very Python compatible | [Experimental](https://berinhard.github.io/pyp5js/pyodide/), limitations of the p5.js features (compared to Processing Java/Python modes) |
 [SkulptIDE](http://esperanc.github.io/skulptIde/pages.html) and [trinket.io](https://trinket.io/processing) | [ProcessingJS](http://processingjs.org/) | [Skulpt](http://skulpt.org/) (Python 2, going to 3 now) | partial | unknown, possibly JavaScript |  very nice web IDE, browser based sketches | ProcessingJS is defunct; not extensible
 [BrythonIDE](https://esperanc.github.io/brythonide/) | [p5.js](https://p5js.org/) | [Brython](https://brython.info/) (Python 3) | [fairly complete](https://brython.info/static_doc/en/stdlib.html)| JavaScript & p5.js |  browser IDE, browser based sketches & very p5.js compatible | big downloads, can be slow  |
-[p5py](https://github.com/p5py/p5) | a new inplementation (incomplete) |  Python 3 | complete | Python only | truly Python compatible | no web deployment, still incomplete |
-[pyp5js](https://github.com/berinhard/pyp5js) | [p5.js](https://p5js.org/) | [Transcrypt](https://transcrypt.org/documentation) (Python 3) | incomplete | JavaScript & p5.js |  web ready sketches, very p5js compatible and nice browser editor| JS libraries only, starts at the command line |
-(future pyp5js) | [p5.js](https://p5js.org/) | [Pyodide](https://luxapodular.github.io/Py5.js/) (Python 3) | complete | Python, JavaScript & p5.js |  web ready sketches! very p5.js compatible & very Python compatible | (not ready yet) |
-
 
 ### Books and references
 | | | | 
