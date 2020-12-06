@@ -4,8 +4,9 @@
 # for artists, designers and architects ([repository](https://github.com/villares/Resources-for-teaching-programming/))
 
 ### Extended table of Hosts, Platforms & Languages
-
-   TODO: Add back the paragraph about the selection criteria...
+> - Drawing or 3D modeling software that embeds a scripting language on the user interface or allows automation with a very limited number of steps between programming and code execution.
+> - Tools aimed at teaching programming in a visual or graphic context.
+> [- ad hoc: Tools that have potential for teaching?]
 
 | | | | 
 | --- | --- | --- |
