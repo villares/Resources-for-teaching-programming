@@ -6,7 +6,7 @@
 ### Extended table of Hosts, Platforms & Languages
 > - Drawing or 3D modeling software that embeds a scripting language on the user interface or allows automation with a very limited number of steps between programming and code execution.
 > - Tools aimed at teaching programming in a visual or graphic context.
-> - [Ad hoc: tools that have potential for teaching?]
+> - [Ad hoc: tools that have shown potential for teaching in a visual or graphic context.]
 
 | | | | 
 | --- | --- | --- |
