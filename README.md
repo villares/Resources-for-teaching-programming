@@ -28,13 +28,19 @@ pyp5js (pyodide mode)| [p5.js](https://p5js.org/) | [Pyodide](https://luxapodula
 
 ### Other FLOSS + Python options to explore
 
-- [FreeCAD](https://freecadweb.org)
+##### 3D 
+
+- [FreeCAD](https://freecadweb.org) (also 2D if you want)
 - [CADQuery](https://github.com/CadQuery/cadquery) & [CQ-Editor](https://github.com/CadQuery/CQ-editor)
 - [Blender](https://blender.org)
 - [OpenPySCAD](https://github.com/taxpon/openpyscad), [SolidPython](https://github.com/SolidCode/SolidPython) and [PythonOpensCAD](https://www.bvcw.org/)
+- [PyPlasm](http://www.plasm.net/download/)
+
+##### 2D
+
 - [ShoeBot](https://shoebot.github.io/)
 - Flat + Allison Parrish's [Bezmerizing](https://github.com/aparrish/bezmerizing/blob/master/demo.ipynb)
-- [PyPlasm](http://www.plasm.net/download/)
+
 
 ### Books and references
 | | | | 
