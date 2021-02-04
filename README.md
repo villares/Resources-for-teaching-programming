@@ -25,6 +25,17 @@ pyp5js (pyodide mode)| [p5.js](https://p5js.org/) | [Pyodide](https://luxapodula
 [SkulptIDE](http://esperanc.github.io/skulptIde/pages.html) and [trinket.io](https://trinket.io/processing) | [ProcessingJS](http://processingjs.org/) | [Skulpt](http://skulpt.org/) (Python 2, going to 3 now) | partial | unknown, possibly JavaScript |  very nice web IDE, browser based sketches | ProcessingJS is defunct; not extensible
 [BrythonIDE](https://esperanc.github.io/brythonide/) | [p5.js](https://p5js.org/) | [Brython](https://brython.info/) (Python 3) | [fairly complete](https://brython.info/static_doc/en/stdlib.html)| JavaScript & p5.js |  browser IDE, browser based sketches & very p5.js compatible | p5.js features only (compared to Processing Java/Python modes)  |
 [p5py.com](htts://p5py.com/) | [p5.js](https://p5js.org/) | [Brython](https://brython.info/) (Python 3) | [fairly complete](https://brython.info/static_doc/en/stdlib.html)| JavaScript & p5.js |  browser IDE, browser based sketches & very p5.js compatible | p5.js features only (compared to Processing Java/Python modes)  |
+
+### Other FLOSS + Python options to explore
+
+- [FreeCAD](https://freecadweb.org)
+- [CADQuery](https://github.com/CadQuery/cadquery) & [CQ-Editor](https://github.com/CadQuery/CQ-editor)
+- [Blender](https://blender.org)
+- [OpenPySCAD](https://github.com/taxpon/openpyscad), [SolidPython](https://github.com/SolidCode/SolidPython) and [PyhthonOpensCAD](https://www.bvcw.org/)
+- [ShoeBot](https://shoebot.github.io/)
+- Flat + Allison Parrish's [Bezmerizing](https://github.com/aparrish/bezmerizing/blob/master/demo.ipynb)
+- [PyPlasm](http://www.plasm.net/download/)
+
 ### Books and references
 | | | | 
 | --- | --- | --- |
