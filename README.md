@@ -31,7 +31,7 @@ pyp5js (pyodide mode)| [p5.js](https://p5js.org/) | [Pyodide](https://luxapodula
 - [FreeCAD](https://freecadweb.org)
 - [CADQuery](https://github.com/CadQuery/cadquery) & [CQ-Editor](https://github.com/CadQuery/CQ-editor)
 - [Blender](https://blender.org)
-- [OpenPySCAD](https://github.com/taxpon/openpyscad), [SolidPython](https://github.com/SolidCode/SolidPython) and [PyhthonOpensCAD](https://www.bvcw.org/)
+- [OpenPySCAD](https://github.com/taxpon/openpyscad), [SolidPython](https://github.com/SolidCode/SolidPython) and [PythonOpensCAD](https://www.bvcw.org/)
 - [ShoeBot](https://shoebot.github.io/)
 - Flat + Allison Parrish's [Bezmerizing](https://github.com/aparrish/bezmerizing/blob/master/demo.ipynb)
 - [PyPlasm](http://www.plasm.net/download/)
