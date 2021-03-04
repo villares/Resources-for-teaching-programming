@@ -38,6 +38,7 @@ pyp5js (pyodide mode)| [p5.js](https://p5js.org/) | [Pyodide](https://luxapodula
 ##### 2D
 
 - [ShoeBot](https://shoebot.github.io/)
+- [PageBot](https://github.com/PageBot/PageBot)
 - Flat + Allison Parrish's [Bezmerizing](https://github.com/aparrish/bezmerizing/blob/master/demo.ipynb)
 
 
