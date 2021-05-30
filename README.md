@@ -24,6 +24,8 @@ An earlier version of this table was published as: *VILLARES, A. B. A., & MOREIR
 pyp5js (pyodide mode)| [p5.js](https://p5js.org/) | [Pyodide](https://luxapodular.github.io/Py5.js/) (Python 3) | complete | Python, JavaScript & p5.js |  web ready sketches! very p5.js compatible & very Python compatible | [Experimental](https://berinhard.github.io/pyp5js/pyodide/), p5.js features only (compared to Processing Java/Python modes) |
 [SkulptIDE](http://esperanc.github.io/skulptIde/pages.html) and [trinket.io](https://trinket.io/processing) | [ProcessingJS](http://processingjs.org/) | [Skulpt](http://skulpt.org/) (Python 2, going to 3 now) | partial | unknown, possibly JavaScript |  very nice web IDE, browser based sketches | ProcessingJS is defunct; not extensible
 [BrythonIDE](https://esperanc.github.io/brythonide/) and [p5py.com](http://p5py.com/)  | [p5.js](https://p5js.org/) | [Brython](https://brython.info/) (Python 3) | [fairly complete](https://brython.info/static_doc/en/stdlib.html) | JavaScript & p5.js |  browser IDE, browser based sketches & very p5.js compatible | p5.js features only (compared to Processing Java/Python modes)  |
+[py5](http://py5.ixora.io/) | based on Processing 4 + JPype |  Python 3 | complete | Python & Java | truly Python compatible, can be used on Jupyter notebooks, compatible with Processing Java | still experimental |
+
 
 ### Other FLOSS + Python options to explore
 
