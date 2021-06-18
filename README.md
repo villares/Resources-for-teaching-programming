@@ -43,6 +43,7 @@ pyp5js (pyodide mode)| [p5.js](https://p5js.org/) | [Pyodide](https://luxapodula
 - [PageBot](https://github.com/PageBot/PageBot) 
 - Flat + Allison Parrish's [Bezmerizing](https://github.com/aparrish/bezmerizing/blob/master/demo.ipynb)
 - [Pero](https://github.com/xxao/pero) - unified API for multiple drawing backends 
+- [generativepy](https://www.pythoninformer.com/generative-art/generativepy/) - Based on PyCairo
 
 
 ### Books and references
