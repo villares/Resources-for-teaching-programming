@@ -47,9 +47,11 @@ pyp5js (pyodide mode)| [p5.js](https://p5js.org/) | [Pyodide](https://luxapodula
 
 
 ### Books and references
-| | | | 
-| --- | --- | --- |
-| [sortable table](http://villares.github.io/csv-to-html-table/books-and-references) | [CSV on GitHub](https://github.com/villares/Resources-for-teaching-programming/blob/master/II%20-%20Books%20%26%20References.csv) | [raw CSV](https://raw.githubusercontent.com/villares/Resources-for-teaching-programming/master/II%20-%20Books%20%26%20References.csv) |
+
+- [Think Python 2e]() EN / [Pense em Python 2e]() PT
+- [Processing.py in Ten Lessons – Resources](https://tabreturn.github.io/code/processing/python/2021/04/16/processing.py_in_ten_lessons-resources.html) EN
+- [Introdução à programação
+com Python em um contexto visual](https://abav.lugaralgum.com/material-aulas/) PT
 
 ----
 
