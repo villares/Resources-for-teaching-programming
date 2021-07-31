@@ -50,7 +50,7 @@ An earlier version of this table was published as: *VILLARES, A. B. A., & MOREIR
 - Allen Downey's [Think Python 2e](https://greenteapress.com/wp/think-python-2e/) EN / [Pense em Python 2e](https://penseallen.github.io/PensePython2e/) PT
 - Tristan Bunn's wonderful resources [Processing.py in Ten Lessons – Resources](https://tabreturn.github.io/code/processing/python/2021/04/16/processing.py_in_ten_lessons-resources.html) EN
 - Al Sweigart's [Automate the Boring Stuff](https://autmatetheboringstuff.com) EN
-- Meu material de apoio para aulas, aberto [Introdução à programação
+- My own open resources for teaching, in Portuguese [Introdução à programação
 com Python em um contexto visual](https://abav.lugaralgum.com/material-aulas/) PT
 
 ----
