@@ -34,7 +34,8 @@ An earlier version of this table was published as: *VILLARES, A. B. A., & MOREIR
 - [CADQuery](https://github.com/CadQuery/cadquery) & [CQ-Editor](https://github.com/CadQuery/CQ-editor)
 - [Blender](https://blender.org)
 - [OpenPySCAD](https://github.com/taxpon/openpyscad), [SolidPython](https://github.com/SolidCode/SolidPython) and [PythonOpensCAD](https://www.bvcw.org/)
-- [PyPlasm](http://www.plasm.net/download/)
+- [PyPlasm](http://www.plasm.net/download/) A "3D modeling functional language" (but in Python)
+- [sdf](https://github.com/fogleman/sdf) A Python library to generate 3D meshes based on SDFs (signed distance functions)
 
 ##### 2D
 
