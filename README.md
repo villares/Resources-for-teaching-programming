@@ -54,7 +54,7 @@ An earlier version of this table was published as: *VILLARES, A. B. A., & MOREIR
 - Allen Downey's [Think Python 2e](https://greenteapress.com/wp/think-python-2e/) EN / [Pense em Python 2e](https://penseallen.github.io/PensePython2e/) PT
 - Tristan Bunn's [Learn Pyhon Visually](https://nostarch.com/learn-python-visually) and [other wonderful resources](https://tabreturn.github.io/), including [Processing.py in Ten Lessons – Resources](https://tabreturn.github.io/code/processing/python/2021/04/16/processing.py_in_ten_lessons-resources.html) EN
 - Al Sweigart's [Automate the Boring Stuff](https://autmatetheboringstuff.com) and [many other open rescourses](https://alsweigart.com/) EN
-- Jake VanderPlas' [Whirlwind Tour of Python(https://jakevdp.github.io/WhirlwindTourOfPython/) EN
+- Jake VanderPlas' [Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) EN
 - My own open resources for teaching, in Portuguese [Introdução à programação
 com Python em um contexto visual](https://abav.lugaralgum.com/material-aulas/) PT
 
