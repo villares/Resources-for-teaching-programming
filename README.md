@@ -3,6 +3,8 @@
 # Resources for teaching programming
 # for artists, designers and architects ([repository](https://github.com/villares/Resources-for-teaching-programming/))
 
+An earlier version of this table was published as: *VILLARES, A. B. A., & MOREIRA, D. (2017). [**Python on the Landscape of Programming Tools for Design and Architectural Education**](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017). Presented at the SIGRADI 2017, Concepcíon, Chile.*
+
 ### Extended table of Hosts, Platforms & Languages
 > - Drawing or 3D modeling software that embeds a scripting language on the user interface or allows automation with a very limited number of steps between programming and code execution.
 > - Tools aimed at teaching programming in a visual or graphic context.
@@ -12,7 +14,7 @@
 | --- | --- | --- |
 | [**SORTABLE VIEW OF THE TABLE**](http://villares.github.io/csv-to-html-table/host-platforms-and-languages)| [CSV on GitHub](https://github.com/villares/Resources-for-teaching-programming/blob/master/I%20-%20Host%20platforms%20%26%20languages.csv) | [raw CSV](https://raw.githubusercontent.com/villares/Resources-for-teaching-programming/master/I%20-%20Host%20platforms%20%26%20languages.csv) |
 
-An earlier version of this table was published as: *VILLARES, A. B. A., & MOREIRA, D. (2017). [**Python on the Landscape of Programming Tools for Design and Architectural Education**](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017). Presented at the SIGRADI 2017, Concepcíon, Chile.*
+----
 
 ### Processing + Python tools table
 
@@ -25,21 +27,22 @@ An earlier version of this table was published as: *VILLARES, A. B. A., & MOREIR
 [BrythonIDE](https://esperanc.github.io/brythonide/) and [p5py.com](http://p5py.com/)  | [p5.js](https://p5js.org/) | [Brython](https://brython.info/) (Python 3) | [fairly complete](https://brython.info/static_doc/en/stdlib.html) | JavaScript & p5.js |  browser IDE, browser based sketches & very p5.js compatible | p5.js features (as opposed to Processing Java/Python modes)  |
 [py5](http://py5.ixora.io/) | [Processing Java 4](https://github.com/processing/processing4) via [JPype](https://jpype.readthedocs.io/en/latest/) |  Python 3 | complete | Python & Java* | truly Python 3 compatible for libraries, can be used on Jupyter notebooks, same core capabilities as Processing Java | Experimental, (*) not all traditional Processing Java libraries might work, new names |
 
+----
 
-### Other FLOSS + Python options to explore
+### More FLOSS + Python options to explore
 
 ##### 3D 
 
-- [FreeCAD](https://freecadweb.org) (also 2D if you want)
-- [CADQuery](https://github.com/CadQuery/cadquery) & [CQ-Editor](https://github.com/CadQuery/CQ-editor)
+- **[FreeCAD](https://freecadweb.org)** - "Your own 3D parametric modeler", has great a Python interactive console and can be used for 2D also.
 - [Blender](https://blender.org)
-- [OpenPySCAD](https://github.com/taxpon/openpyscad), [SolidPython](https://github.com/SolidCode/SolidPython) and [PythonOpensCAD](https://www.bvcw.org/)
+- OpenSCAD + Python: [OpenPySCAD](https://github.com/taxpon/openpyscad), [SolidPython](https://github.com/SolidCode/SolidPython) and [PythonOpensCAD](https://www.bvcw.org/)
+- [CADQuery](https://github.com/CadQuery/cadquery) & [CQ-Editor](https://github.com/CadQuery/CQ-editor)
 - [PyPlasm](https://github.com/plasm-language/pyplasm) A "3D modeling functional language" (but now in Python)
 - [sdf](https://github.com/fogleman/sdf) A Python library to generate 3D meshes based on SDFs (signed distance functions)
 
 ##### 2D
 
-- [ShoeBot](https://shoebot.github.io/) - related to the DrawBot/NodeBox1/PlotDevice family of tools
+- **[ShoeBot](https://shoebot.github.io/)** - A great creative coding environment designed for making vector graphics and animations with Python, related to the DrawBot/NodeBox1/PlotDevice family of tools.
 - [PageBot](https://github.com/PageBot/PageBot) 
 - Flat + Allison Parrish's [Bezmerizing](https://github.com/aparrish/bezmerizing/blob/master/demo.ipynb)
 - [Pero](https://github.com/xxao/pero) - unified API for multiple drawing backends 
@@ -49,8 +52,9 @@ An earlier version of this table was published as: *VILLARES, A. B. A., & MOREIR
 ### Books and references
 
 - Allen Downey's [Think Python 2e](https://greenteapress.com/wp/think-python-2e/) EN / [Pense em Python 2e](https://penseallen.github.io/PensePython2e/) PT
-- Tristan Bunn's wonderful resources [Processing.py in Ten Lessons – Resources](https://tabreturn.github.io/code/processing/python/2021/04/16/processing.py_in_ten_lessons-resources.html) EN
-- Al Sweigart's [Automate the Boring Stuff](https://autmatetheboringstuff.com) EN
+- Tristan Bunn's [Learn Pyhon Visually](https://nostarch.com/learn-python-visually) and [other wonderful resources](https://tabreturn.github.io/), including [Processing.py in Ten Lessons – Resources](https://tabreturn.github.io/code/processing/python/2021/04/16/processing.py_in_ten_lessons-resources.html) EN
+- Al Sweigart's [Automate the Boring Stuff](https://autmatetheboringstuff.com) and [many other open rescourses](https://alsweigart.com/) EN
+- Jake VanderPlas' [Whirlwind Tour of Python(https://jakevdp.github.io/WhirlwindTourOfPython/) EN
 - My own open resources for teaching, in Portuguese [Introdução à programação
 com Python em um contexto visual](https://abav.lugaralgum.com/material-aulas/) PT
 
