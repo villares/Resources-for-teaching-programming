@@ -43,9 +43,10 @@ An earlier version of this table was published as: *VILLARES, A. B. A., & MOREIR
 ##### 2D
 
 - **[ShoeBot](https://shoebot.github.io/)** - A great creative coding environment designed for making vector graphics and animations with Python, related to the DrawBot/NodeBox1/PlotDevice family of tools.
-- [PageBot](https://github.com/PageBot/PageBot) 
+- [guizero](https://lawsie.github.io/guizero/drawing/) - A really easy Python GUI library (based on Tkinter)
 - Flat + Allison Parrish's [Bezmerizing](https://github.com/aparrish/bezmerizing/blob/master/demo.ipynb)
-- [Pero](https://github.com/xxao/pero) - unified API for multiple drawing backends 
+- [PageBot](https://github.com/PageBot/PageBot) 
+- [Pero](https://github.com/xxao/pero) - A unified API for multiple drawing backends 
 - [generativepy](https://www.pythoninformer.com/generative-art/generativepy/) - Based on PyCairo
 
 
