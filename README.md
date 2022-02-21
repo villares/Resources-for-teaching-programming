@@ -53,7 +53,7 @@ An earlier version of this table was published as: *VILLARES, A. B. A., & MOREIR
 ### Books and references
 
 - Allen Downey's [Think Python 2e](https://greenteapress.com/wp/think-python-2e/) EN / [Pense em Python 2e](https://penseallen.github.io/PensePython2e/) PT
-- Tristan Bunn's [Learn Pyhon Visually](https://nostarch.com/learn-python-visually) and [other wonderful resources](https://tabreturn.github.io/), including [Processing.py in Ten Lessons](https://tabreturn.github.io/code/processing/python/2021/04/16/processing.py_in_ten_lessons-resources.html) EN
+- Tristan Bunn's [Learn Pyhon Visually](https://nostarch.com/learn-python-visually) and [other wonderful resources](https://tabreturn.github.io/), including [Processing.py in Ten Lessons](https://tabreturn.github.io/code/processing/python/2021/04/16/processing.py_in_ten_lessons-resources.html) and the [thonny-py5mode](https://github.com/tabreturn/thonny-py5mode) plugin EN
 - Al Sweigart's [Automate the Boring Stuff](https://autmatetheboringstuff.com) and [many other open resources](https://alsweigart.com/) EN
 - Jake VanderPlas' [Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) EN
 - My own open resources for teaching, in Portuguese [Introdução à programação
@@ -65,4 +65,4 @@ com Python em um contexto visual](https://abav.lugaralgum.com/material-aulas/) P
 
 ----
 
-Copyright (c) 2014-2017 [Alexandre B A Villares](https://abav.lugaralgum.com). This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. [CC-BY-NC-SA-4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Copyright (c) 2014-2022 [Alexandre B A Villares](https://abav.lugaralgum.com). This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. [CC-BY-SA-4.0 License](https://creativecommons.org/licenses/by-sa/4.0/)
