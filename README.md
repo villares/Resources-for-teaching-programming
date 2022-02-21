@@ -65,4 +65,4 @@ com Python em um contexto visual](https://abav.lugaralgum.com/material-aulas/) P
 
 ----
 
-Copyright (c) 2014-2022 [Alexandre B A Villares](https://abav.lugaralgum.com). This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. [CC-BY-SA-4.0 License](https://creativecommons.org/licenses/by-sa/4.0/)
+Copyright (c) 2014-2022 [Alexandre B A Villares](https://abav.lugaralgum.com). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. [CC-BY-SA-4.0 License](https://creativecommons.org/licenses/by-sa/4.0/)
