@@ -47,8 +47,8 @@ An earlier version of this table was published as: *VILLARES, A. B. A., & MOREIR
 - Flat + Allison Parrish's [Bezmerizing](https://github.com/aparrish/bezmerizing/blob/master/demo.ipynb)
 - [PageBot](https://github.com/PageBot/PageBot) 
 - [Pero](https://github.com/xxao/pero) - A unified API for multiple drawing backends 
-- [generativepy](https://www.pythoninformer.com/generative-art/generativepy/) - Based on PyCairo
-
+- [generativepy](https://github.com/martinmcbride/generativepy) - Generative art and graphing library based on PyCairo
+- [vsketch](https://github.com/abey79/vsketch) - a plotter-centric Python generative art toolkit 
 
 ### Books and references
 
