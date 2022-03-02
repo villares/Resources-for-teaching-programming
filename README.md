@@ -40,8 +40,8 @@ An earlier version of this table was published as: *VILLARES, A. B. A., & MOREIR
   - [OpenPySCAD](https://github.com/taxpon/openpyscad)
   - [SolidPython](https://github.com/SolidCode/SolidPython)
   - [PythonOpensCAD](https://www.bvcw.org/)
-- [CADQuery](https://github.com/CadQuery/cadquery) & [CQ-Editor](https://github.com/CadQuery/CQ-editor) — A Python parametric CAD scripting framework based on OCCT
-- [PyPlasm](https://github.com/plasm-language/pyplasm) — Python versio of the PLASM 3D modeling functional language
+- [CADQuery](https://github.com/CadQuery/cadquery) & [CQ-Editor](https://github.com/CadQuery/CQ-editor) — A Python parametric CAD scripting framework
+- [PyPlasm](https://github.com/plasm-language/pyplasm) — Python version of the PLASM 3D modeling functional language
 - [sdf](https://github.com/fogleman/sdf) — A Python library to generate 3D meshes based on SDFs (Signed Distance Functions)
 
 ##### 2D
