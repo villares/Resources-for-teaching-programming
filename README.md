@@ -33,12 +33,16 @@ An earlier version of this table was published as: *VILLARES, A. B. A., & MOREIR
 
 ##### 3D 
 
-- **[FreeCAD](https://freecadweb.org)** - "Your own 3D parametric modeler", has great a Python interactive console and can be used for 2D also.
-- [Blender](https://blender.org)
-- OpenSCAD + Python: [OpenPySCAD](https://github.com/taxpon/openpyscad), [SolidPython](https://github.com/SolidCode/SolidPython) and [PythonOpensCAD](https://www.bvcw.org/)
-- [CADQuery](https://github.com/CadQuery/cadquery) & [CQ-Editor](https://github.com/CadQuery/CQ-editor)
-- [PyPlasm](https://github.com/plasm-language/pyplasm) A "3D modeling functional language" (but now in Python)
-- [sdf](https://github.com/fogleman/sdf) A Python library to generate 3D meshes based on SDFs (signed distance functions)
+- **[FreeCAD](https://freecadweb.org)** — Your own 3D parametric modeler
+  - It has great a Python interactive console, bult-in editor (macro panel) and can also be used for 2D.
+- [Blender](https://blender.org) — Blender's [Python API](https://docs.blender.org/api/current/index.html)
+- OpenSCAD + Python tools:
+  - [OpenPySCAD](https://github.com/taxpon/openpyscad)
+  - [SolidPython](https://github.com/SolidCode/SolidPython)
+  - [PythonOpensCAD](https://www.bvcw.org/)
+- [CADQuery](https://github.com/CadQuery/cadquery) & [CQ-Editor](https://github.com/CadQuery/CQ-editor) — A Python parametric CAD scripting framework based on OCCT
+- [PyPlasm](https://github.com/plasm-language/pyplasm) — Python versio of the PLASM 3D modeling functional language
+- [sdf](https://github.com/fogleman/sdf) — A Python library to generate 3D meshes based on SDFs (Signed Distance Functions)
 
 ##### 2D
 
