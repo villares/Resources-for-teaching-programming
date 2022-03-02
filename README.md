@@ -42,13 +42,15 @@ An earlier version of this table was published as: *VILLARES, A. B. A., & MOREIR
 
 ##### 2D
 
-- **[ShoeBot](https://shoebot.github.io/)** - A great creative coding environment designed for making vector graphics and animations with Python, related to the DrawBot/NodeBox1/PlotDevice family of tools.
-- [guizero](https://lawsie.github.io/guizero/drawing/) - A really easy Python GUI library (based on Tkinter)
-- Flat + Allison Parrish's [Bezmerizing](https://github.com/aparrish/bezmerizing/blob/master/demo.ipynb)
-- [PageBot](https://github.com/PageBot/PageBot) 
-- [Pero](https://github.com/xxao/pero) - A unified API for multiple drawing backends 
-- [generativepy](https://github.com/martinmcbride/generativepy) - Generative art and graphing library based on PyCairo
-- [vsketch](https://github.com/abey79/vsketch) - a plotter-centric Python generative art toolkit 
+- **[ShoeBot](https://shoebot.github.io/)** — A great creative coding environment designed for making vector graphics and animations 
+  - Related to the DrawBot/NodeBox1/PlotDevice family of tools.
+- [guizero](https://lawsie.github.io/guizero/drawing//) — A really easy Python GUI library (based on Tkinter)
+- [Bezmerizing](https://github.com/aparrish/bezmerizing/blob/master/demo.ipynb) — Allison Parrish's wonderful tiny library
+  - based on [Flat](https://xxyxyz.org/flat) — Generative infrastructure for Python
+- [PageBot](https://github.com/PageBot/PageBot) — Scriptable page layout, vector graphics and typography environment
+- [Pero](https://github.com/xxao/pero) — A unified Python for multiple drawing backends 
+- [generativepy](https://github.com/martinmcbride/generativepy) — Generative art and graphing library based on PyCairo
+- [vsketch](https://github.com/abey79/vsketch) — A plotter-centric Python generative art toolkit 
 
 ### Books and references
 
