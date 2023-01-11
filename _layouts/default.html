@@ -17,5 +17,39 @@
       <div class="container
       </div>
     </footer>
+<script>
+// Get all the headings on the page
+let headings = document.querySelectorAll("h2");
+
+// Loop through the headings
+for (let i = 0; i < headings.length; i++) {
+    // Check if the current heading is the "Summary" heading
+    if (headings[i].textContent === "Summary") {
+        // Create the summary div
+        let summaryDiv = document.createElement("div");
+        summaryDiv.id = "summary";
+        summaryDiv.style.float = "right";
+        //summaryDiv.style.position = "absolute";
+        //summaryDiv.style.top = "0";
+        //summaryDiv.style.right = "0";
+        // Get the next heading
+        let nextHeading = headings[i + 1];
+
+        // Get all the content from the current heading to the next heading
+        let currentContent = headings[i];
+        while (currentContent !== nextHeading) {
+            currentContent = currentContent.nextSibling;
+            summaryDiv.appendChild(currentContent);
+        }
+
+        // Insert the summary div before the next heading
+        nextHeading.parentNode.insertBefore(summaryDiv, nextHeading);
+
+        // Exit the loop
+        break;
+    }
+}
+</script>                  
+                  
   </body>
 </html>
