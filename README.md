@@ -51,7 +51,7 @@ An earlier version of this table was published as: *VILLARES, A. B. A., & MOREIR
 ##### 2D
 
 - **[ShoeBot](https://shoebot.github.io/)** — A great creative coding environment designed for making vector graphics and animations 
-  - Related to the DrawBot/NodeBox1/PlotDevice family of tools.
+  - Related to the DrawBot/NodeBox1/PlotDevice family of tools. See also [drawbot-skia](https://github.com/justvanrossum/drawbot-skia) (a new implemetation of DrawBot) 
 - [pyxel](https://pypi.org/project/pyxel/) — A retro game engine for Python.
 - [pygame-zero](https://pygame-zero.readthedocs.io/en/stable/) — A zero-boilerplate games programming framework for Python 3, based on Pygame.
 - [guizero](https://lawsie.github.io/guizero/drawing//) — A really easy Python GUI library (based on Tkinter).
