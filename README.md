@@ -71,6 +71,17 @@ An earlier version of this table was published as: *VILLARES, A. B. A., & MOREIR
 - My own open resources for teaching, in Portuguese [Introdução à programação
 com Python em um contexto visual](https://abav.lugaralgum.com/material-aulas/) PT
 
+## Summary
+
+- About the original paper
+   - revised table
+- Processing + Python tools table
+- More FLOSS + Python options to explore
+   - 3D
+   - 2D
+- Books and references
+
+
 ----
 
 **Please consider feedback, colaboration by means of pull requests, and/or a small [donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HCGAKACDMVNV2)!**
