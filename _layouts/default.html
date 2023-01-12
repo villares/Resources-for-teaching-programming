@@ -37,11 +37,11 @@ for (let i = 0; i < headings.length; i++) {
 
         // Get all the content from the current heading to the next heading
         let currentContent = headings[i];
-        while (currentContent !== nextHeading) {
-            currentContent = currentContent.nextSibling;
+        while (currentContent.parentNode === headings[i].parentNode && currentContent !== nextHeading) {
+            if(currentContent.nodeType !== Node.ELEMENT_NODE) continue;
             summaryDiv.appendChild(currentContent);
+            currentContent = currentContent.nextSibling;
         }
-
         // Insert the summary div before the next heading
         nextHeading.parentNode.insertBefore(summaryDiv, nextHeading);
 
