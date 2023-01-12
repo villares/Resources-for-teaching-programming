@@ -1,7 +1,20 @@
 ----
 
-# Resources for teaching programming
-# for artists, designers and architects ([repository](https://github.com/villares/Resources-for-teaching-programming/))
+# Resources for teaching programming </br>for artists, designers and architects ([repository](https://github.com/villares/Resources-for-teaching-programming/))
+
+## Summary
+
+- About the original paper
+   - Revised/extended table
+- Processing + Python tools table
+- More FLOSS + Python options to explore
+   - 3D
+   - 2D
+- Books and references
+
+## This page was originally made to host data for a table for this paper:
+
+### Python on the Landscape of Programming Tools for Design and Architectural Education
 
 An earlier version of this table was published as: *VILLARES, A. B. A., & MOREIRA, D. (2017). [**Python on the Landscape of Programming Tools for Design and Architectural Education**](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017). Presented at the SIGRADI 2017, Concepcíon, Chile.*
 
@@ -9,10 +22,7 @@ An earlier version of this table was published as: *VILLARES, A. B. A., & MOREIR
 > - Drawing or 3D modeling software that embeds a scripting language on the user interface or allows automation with a very limited number of steps between programming and code execution.
 > - Tools aimed at teaching programming in a visual or graphic context.
 > - [Ad hoc: tools that have shown potential for teaching in a visual or graphic context.]
-
-| | | | 
-| --- | --- | --- |
-| [**SORTABLE VIEW OF THE TABLE**](http://villares.github.io/csv-to-html-table/host-platforms-and-languages)| [CSV on GitHub](https://github.com/villares/Resources-for-teaching-programming/blob/master/I%20-%20Host%20platforms%20%26%20languages.csv) | [raw CSV](https://raw.githubusercontent.com/villares/Resources-for-teaching-programming/master/I%20-%20Host%20platforms%20%26%20languages.csv) |
+> - [**SORTABLE VIEW OF THE TABLE**](http://villares.github.io/csv-to-html-table/host-platforms-and-languages)| [CSV on GitHub](https://github.com/villares/Resources-for-teaching-programming/blob/master/I%20-%20Host%20platforms%20%26%20languages.csv) | [raw CSV](https://raw.githubusercontent.com/villares/Resources-for-teaching-programming/master/I%20-%20Host%20platforms%20%26%20languages.csv) 
 
 ----
 
@@ -32,9 +42,9 @@ An earlier version of this table was published as: *VILLARES, A. B. A., & MOREIR
 
 ----
 
-### More FLOSS + Python options to explore
+## More FLOSS + Python options to explore
 
-##### 3D 
+### 3D 
 
 - **[FreeCAD](https://freecadweb.org)** — Your own 3D parametric modeler
   - It has great a Python interactive console, bult-in editor (macro panel) and can also be used for 2D.
@@ -48,7 +58,7 @@ An earlier version of this table was published as: *VILLARES, A. B. A., & MOREIR
 - [VPython](https://vpython.org/) — A 3D programming environment for Python:
 - [sdf](https://github.com/fogleman/sdf) — A Python library to generate 3D meshes based on SDFs (Signed Distance Functions)
 
-##### 2D
+### 2D
 
 - **[ShoeBot](https://shoebot.github.io/)** — A great creative coding environment designed for making vector graphics and animations 
   - Related to the DrawBot/NodeBox1/PlotDevice family of tools. See also [drawbot-skia](https://github.com/justvanrossum/drawbot-skia) (a new implemetation of DrawBot) 
@@ -62,7 +72,7 @@ An earlier version of this table was published as: *VILLARES, A. B. A., & MOREIR
 - [generativepy](https://github.com/martinmcbride/generativepy) — Generative art and graphing library based on PyCairo.
 - [vsketch](https://github.com/abey79/vsketch) — A plotter-centric Python generative art toolkit. 
 
-### Books and references
+## Books and references
 
 - Allen Downey's [Think Python 2e](https://greenteapress.com/wp/think-python-2e/) EN / [Pense em Python 2e](https://penseallen.github.io/PensePython2e/) PT
 - Tristan Bunn's [Learn Pyhon Visually](https://nostarch.com/learn-python-visually) and [other wonderful resources](https://tabreturn.github.io/), including [Processing.py in Ten Lessons](https://tabreturn.github.io/code/processing/python/2021/04/16/processing.py_in_ten_lessons-resources.html) and the [thonny-py5mode](https://github.com/tabreturn/thonny-py5mode) plugin EN
@@ -71,17 +81,6 @@ An earlier version of this table was published as: *VILLARES, A. B. A., & MOREIR
 - My own open resources for teaching, in Portuguese [Introdução à programação
 com Python em um contexto visual](https://abav.lugaralgum.com/material-aulas/) PT
 
-## Summary
-
-- About the original paper
-   - revised table
-- Processing + Python tools table
-- More FLOSS + Python options to explore
-   - 3D
-   - 2D
-- Books and references
-
-## End
 
 ----
 
