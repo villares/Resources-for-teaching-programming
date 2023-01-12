@@ -18,23 +18,24 @@
       </div>
     </footer>
 <script>
-<script>
   var headings = document.querySelectorAll("h2");
   for (var i = 0; i < headings.length; i++) {
     if (headings[i].innerHTML === "Summary") {
       var summaryHeading = headings[i];
-      var summaryText = summaryHeading.nextElementSibling;
-      var nextElem = summaryText.nextElementSibling;
+      var summaryList = summaryHeading.nextElementSibling;
+      var nextElem = summaryList.firstElementChild;
       summaryHeading.insertAdjacentHTML("beforebegin", "<div class='summary-style'>");
       while(nextElem && nextElem.tagName !== "H2"){
-        nextElem = nextElem.nextElementSibling;
+        if(nextElem.tagName === "UL"){
+          nextElem = nextElem.firstElementChild;
+        }
+        else{
+          nextElem = nextElem.nextElementSibling;
+        }
       }
       nextElem.insertAdjacentHTML("beforebegin", "</div>");
     }
   }
-</script>
-
 </script>                  
-                  
   </body>
 </html>
