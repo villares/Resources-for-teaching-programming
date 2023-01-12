@@ -1,6 +1,8 @@
 ----
 
-# Resources for teaching programming </br>for artists, designers and architects ([repository](https://github.com/villares/Resources-for-teaching-programming/))
+<h1>Resources for teaching programming </br>for artists, designers and architects</h1>
+
+([repository](https://github.com/villares/Resources-for-teaching-programming/))
 
 ## Summary
 
@@ -12,7 +14,7 @@
    - [2D](#2d)
 - [Books and references](#books-and-references)
 
-## This page was originally made to host data for a table for this paper:
+## A page originally made to host data for this paper:
 
 ### Python on the Landscape of Programming Tools for Design and Architectural Education
 
