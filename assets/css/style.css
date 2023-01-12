@@ -511,8 +511,9 @@ menu {
   display: block;
 }
 
-summary {
+.summary-style {
   display: list-item;
+  float: right;
 }
 
 canvas {
