@@ -18,37 +18,22 @@
       </div>
     </footer>
 <script>
-// Get all the headings on the page
-let headings = document.querySelectorAll("h2");
-
-// Loop through the headings
-for (let i = 0; i < headings.length; i++) {
-    // Check if the current heading is the "Summary" heading
-    if (headings[i].textContent === "Summary") {
-        // Create the summary div
-        let summaryDiv = document.createElement("div");
-        summaryDiv.id = "side-summary";
-        summaryDiv.style.float = "right";
-        //summaryDiv.style.position = "absolute";
-        //summaryDiv.style.top = "0";
-        //summaryDiv.style.right = "0";
-        // Get the next heading
-        let nextHeading = headings[i + 1];
-
-        // Get all the content from the current heading to the next heading
-        let currentContent = headings[i];
-        while (currentContent.parentNode === headings[i].parentNode && currentContent !== nextHeading) {
-            if(currentContent.nodeType !== Node.ELEMENT_NODE) continue;
-            summaryDiv.appendChild(currentContent);
-            currentContent = currentContent.nextSibling;
-        }
-        // Insert the summary div before the next heading
-        nextHeading.parentNode.insertBefore(summaryDiv, nextHeading);
-
-        // Exit the loop
-        break;
+<script>
+  var headings = document.querySelectorAll("h2");
+  for (var i = 0; i < headings.length; i++) {
+    if (headings[i].innerHTML === "Summary") {
+      var summaryHeading = headings[i];
+      var summaryText = summaryHeading.nextElementSibling;
+      var nextElem = summaryText.nextElementSibling;
+      summaryHeading.insertAdjacentHTML("beforebegin", "<div class='summary-style'>");
+      while(nextElem && nextElem.tagName !== "H2"){
+        nextElem = nextElem.nextElementSibling;
+      }
+      nextElem.insertAdjacentHTML("beforebegin", "</div>");
     }
-}
+  }
+</script>
+
 </script>                  
                   
   </body>
