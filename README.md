@@ -4,13 +4,13 @@
 
 ## Summary
 
-- About the original paper
-   - Revised/extended table
-- Processing + Python tools table
-- More FLOSS + Python options to explore
-   - 3D
-   - 2D
-- Books and references
+- [About the original paper](#this-page-was-originally-made-to-host-data-for-a-table-for-this-paper)
+   - [Revised/extended table](#extended-table-of-hosts-platforms--languages)
+- [Processing + Python tools table](#processing--python-tools-table)
+- [More FLOSS + Python options to explore](#more-floss--python-options-to-explore)
+   - [3D](#3d)
+   - [2D](#2d)
+- [Books and references](#books-and-references)
 
 ## This page was originally made to host data for a table for this paper:
 
