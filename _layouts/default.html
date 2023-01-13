@@ -18,10 +18,10 @@
       </div>
     </footer>
 <script>
-const summary = document.getElementById('summary').nextSibling;
 const summaryDiv = document.createElement('div');
 const range = document.createRange();
-range.selectNode(summary);
+range.setStartAfter(document.querySelector("h2#summary"));
+range.setEndBefore(document.querySelector("h2:not(#summary)"));
 range.surroundContents(summaryDiv);
 summaryDiv.classList.add("summary-style");    
 </script>                  
