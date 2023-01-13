@@ -1,9 +1,5 @@
 ----
 
-<h1>Resources for teaching programming<br/> for artists, designers and architects</h1>
-
-([repository](https://github.com/villares/Resources-for-teaching-programming/))
-
 ## Summary
 
 - [About the original paper](#this-page-was-originally-made-to-host-data-for-a-table-for-this-paper)
@@ -13,6 +9,10 @@
    - [3D](#3d)
    - [2D](#2d)
 - [Books and references](#books-and-references)
+
+<h1>Resources for teaching programming<br/> for artists, designers and architects</h1>
+
+([repository](https://github.com/villares/Resources-for-teaching-programming/))
 
 ## A page originally made to host data for this paper:
 
