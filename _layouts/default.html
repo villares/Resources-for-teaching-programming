@@ -18,15 +18,12 @@
       </div>
     </footer>
 <script>
-  var headings = document.querySelectorAll("h2");
-  for (var i = 0; i < headings.length; i++) {
-    if (headings[i].innerHTML === "Summary") {
-      var summaryHeading = headings[i];
-      var summaryList = summaryHeading.nextElementSibling;
-      summaryHeading.classList.add("summary-style");
-      summaryList.classList.add("summary-style");
-    }
-  }
+const summary = document.getElementById('summary').nextSibling;
+const summaryDiv = document.createElement('div');
+const range = document.createRange();
+range.selectNode(summary);
+range.surroundContents(summaryDiv);
+summaryDiv.classList.add("summary-style");    
 </script>                  
   </body>
 </html>
