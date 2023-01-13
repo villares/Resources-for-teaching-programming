@@ -96,4 +96,4 @@ After updating a few times the data from the earlier table, work started on comp
 
 ----
 
-Copyright (c) 2014-2022 [Alexandre B A Villares](https://abav.lugaralgum.com). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. [CC-BY-SA-4.0 License](https://creativecommons.org/licenses/by-sa/4.0/)
+Copyright (c) 2014-2023 [Alexandre B A Villares](https://abav.lugaralgum.com). This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. [CC-BY-SA-4.0 License](https://creativecommons.org/licenses/by-sa/4.0/)
