@@ -81,13 +81,12 @@ The paper contained an earlier version of the table below.
 
 ## Books and references
 
-- Allen Downey's [Think Python 2e](https://greenteapress.com/wp/think-python-2e/) EN / [Pense em Python 2e](https://penseallen.github.io/PensePython2e/) PT
+- The py5 tutorial series: [intro to py5 and python](https://py5coding.org/tutorials/intro_to_py5_and_python.html)
 - Tristan Bunn's [Learn Pyhon Visually](https://nostarch.com/learn-python-visually) and [other wonderful resources](https://tabreturn.github.io/), including [Processing.py in Ten Lessons](https://tabreturn.github.io/code/processing/python/2021/04/16/processing.py_in_ten_lessons-resources.html) and the [thonny-py5mode](https://github.com/tabreturn/thonny-py5mode) plugin EN
+- Allen Downey's [Think Python 2e](https://greenteapress.com/wp/think-python-2e/) EN / [Pense em Python 2e](https://penseallen.github.io/PensePython2e/) PT
 - Al Sweigart's [Automate the Boring Stuff](https://autmatetheboringstuff.com) and [many other open resources](https://alsweigart.com/) EN
 - Jake VanderPlas' [Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) EN
-- My own open resources for teaching, in Portuguese [Introdução à programação
-com Python em um contexto visual](https://abav.lugaralgum.com/material-aulas/) PT
-
+- My own open resources for teaching, in Portuguese [Introdução à programação com Python em um contexto visual](https://abav.lugaralgum.com/material-aulas/) PT
 
 ----
 
