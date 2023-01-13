@@ -20,10 +20,11 @@
 <script>
 const summaryDiv = document.createElement('div');
 const range = document.createRange();
-range.setStartAfter(document.querySelector("h2#summary"));
+range.setStartBefore(document.querySelector("h2#summary"));
 range.setEndBefore(document.querySelector("h2:not(#summary)"));
 range.surroundContents(summaryDiv);
 summaryDiv.classList.add("summary-style");    
+summaryDiv.styleList.add("float: right");
 </script>                  
   </body>
 </html>
