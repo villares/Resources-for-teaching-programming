@@ -1,30 +1,25 @@
 /*! style.css v1.0.0-alpha-8 | ISC License | https://github.com/ungoldman/style.css */
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+@import url('https://fonts.bunny.net/css?family=Source+Sans+Pro');
 @font-face { font-family: "Source Sans Pro", "sans-serif";
-             src: url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
+             src: url("https://fonts.bunny.net/css?family=Source+Sans+Pro");
              font-weight: normal;
 font-style: normal; }
 html {
   padding-left: 3%;
   padding-right: 3%;
-  max-width: 960px;
+  max-width: 1024px;
   color: #303030;
   background-color: white;
   box-sizing: border-box;
   font-family: "Source Sans Pro", sans-serif;
   font-size: calc(16px + 0.25vw);
   line-height: 1.4;
-  -webkit-font-kerning: normal;
-          font-kerning: normal;
-  text-rendering: optimizeLegibility;
-  -webkit-font-feature-settings: "kern", "liga" 1, "calt" 0;
-          font-feature-settings: "kern", "liga" 1, "calt" 0;
-  -ms-text-size-adjust: 100%;
+   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
 
 body {
-  margin: 50;
+  margin: 10;
 }
 
 article,
@@ -70,12 +65,26 @@ table,
 pre {
   margin-top: 0;
   margin-bottom: 1em;
+     text-rendering: optimizeLegibility;
+   font-feature-settings: "kern", "liga" 1, "calt" 0;
+  -webkit-font-feature-settings: "kern", "liga" 1, "calt" 0;
+  -moz-font-feature-settings: "kern";
+  -moz-font-feature-settings: "kern=1";
+
+
 }
 
 small {
   font-size: 80%;
 }
 
+/*.h0 {
+  font-size: 2em;
+  line-height: 1.0em;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  position: relative;
+}*/
 h1,
 h2,
 h3,
@@ -98,32 +107,36 @@ h6 small {
   font-weight: 400;
   font-size: 0.7em;
   margin-left: 0.5em;
-  color: #777;
 }
 
 h1 {
-  font-size: 1.5em;
+  font-size: 1.3em;
+  color: #000 !important;
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 1.2em;
+  color: #000 !important;
 }
 
 h3 {
-  font-size: 1.2em;
+  font-size: 1.1em;
+  color: #000 !important;
 }
 
 h4 {
   font-size: 1em;
+  color: #000 !important;
 }
 
 h5 {
   font-size: 0.9em;
+  color: #000 !important;
 }
 
 h6 {
   font-size: 0.8em;
-  color: #575757;
+  color: #575757 !important;
 }
 
 p {
@@ -223,7 +236,7 @@ code,
 pre,
 kbd,
 samp {
-  font-family: menlo, inconsolata, consolas, "fira mono", "noto mono", "droid sans mono", "liberation mono", "dejavu sans mono", "ubuntu mono", monaco, "courier new", monospace;
+  font-family: inconsolata, consolas, "fira mono", "noto mono", "droid sans mono", "liberation mono", "dejavu sans mono", "ubuntu mono", monaco, "courier new", monospace;
   font-size: calc(12px + 0.25vw);
 }
 
@@ -267,6 +280,11 @@ code::before, code::after {
   content: '\00a0';
 }
 
+desenho {
+  font-family: inconsolata, consolas, "fira mono", "noto mono", "droid sans mono", "liberation mono", "dejavu sans mono", "ubuntu mono", monaco, "courier new", monospace;
+  font-style: bold;
+}
+
 kbd {
   background-color: #e6e6e6;
   background-image: -webkit-linear-gradient(#fafafa, #e6e6e6);
@@ -289,6 +307,7 @@ th {
 }
 
 table {
+  font-size: 0.8em; 
   border-collapse: collapse;
   border-spacing: 0;
   display: block;
@@ -511,10 +530,8 @@ menu {
   display: block;
 }
 
-div.summary-style {
-    border: 3px solid black;
-    float: top right;
-    padding: 10px;
+summary {
+  display: list-item;
 }
 
 canvas {
@@ -527,4 +544,10 @@ template {
 
 [hidden] {
   display: none;
+}
+
+div.summary-style {
+    border: 3px solid black;
+    float: top right;
+    padding: 10px;
 }
