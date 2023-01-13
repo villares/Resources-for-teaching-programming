@@ -551,7 +551,5 @@ div.summary-style {
     float: top right;
     margin: 2em auto;
     padding: 1em;
-    position: absolute;
     top: 0;
-    right: 0;
 }
