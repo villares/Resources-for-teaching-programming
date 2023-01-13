@@ -181,7 +181,7 @@ blockquote {
   margin: 0 2rem 1rem; 
   padding: 0 1rem;
   color: #000;
-  border-left: 4px solid #000000;
+  border-left: 3px solid #000000;
 }
 
 blockquote > :first-child {
@@ -321,7 +321,7 @@ hr {
   box-sizing: content-box;
   overflow: visible;
   background: transparent;
-  height: 4px;
+  height: 3px;
   padding: 0;
   margin: 1em 0;
   background-color: #000;
@@ -512,10 +512,8 @@ menu {
 }
 
 div.summary-style {
-    border-top: 2px solid black;
-    border-right: 2px solid red;
-    border-bottom: 2px solid green;
-    border-left: 2px solid blue;
+    border: 3px solid black;
+    float: top right;
     padding: 10px;
 }
 
