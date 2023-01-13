@@ -1,8 +1,7 @@
 ## Summary
 
-- [About the original page/paper](#this-page-was-originally-made-to-host-data-for-a-table-for-this-paper)
-   - [Python on the Landscape of Programming Tools for Design and Architectural Education](#python-on-the-landscape-of-programming-tools-for-design-and-architectural-education)
-      - [Extended table of Hosts, Platforms & Languages](#extended-table-of-hosts-platforms--languages)
+- [Python on the Landscape of Programming Tools for Design and Architectural Education](#python-on-the-landscape-of-programming-tools-for-design-and-architectural-education)
+   - [Extended table of Hosts, Platforms & Languages](#extended-table-of-hosts-platforms--languages)
 - [Processing + Python tools table](#processing--python-tools-table)
 - [More FLOSS + Python options to explore](#more-floss--python-options-to-explore)
    - [3D](#3d)
@@ -17,19 +16,22 @@
 
 ([repository](https://github.com/villares/Resources-for-teaching-programming/))
 
-## This page was originally made to host data from this paper:
-
 ### Python on the Landscape of Programming Tools for Design and Architectural Education
+
+This page was originally made to host data from this paper, that presented an earlier version of the table below:
 
 *VILLARES, A. B. A., & MOREIRA, D. (2017). [**Python on the Landscape of Programming Tools for Design and Architectural Education**](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017). Presented at the SIGRADI 2017, Concepcíon, Chile.*
 
-The paper contained an earlier version of the table below. 
-
 #### Extended table of Hosts, Platforms & Languages
+
+[**SORTABLE VIEW OF THE TABLE**](http://villares.github.io/csv-to-html-table/host-platforms-and-languages)| [CSV on GitHub](https://github.com/villares/Resources-for-teaching-programming/blob/master/I%20-%20Host%20platforms%20%26%20languages.csv) | [raw CSV](https://raw.githubusercontent.com/villares/Resources-for-teaching-programming/master/I%20-%20Host%20platforms%20%26%20languages.csv) 
+
+> **About the table contents**: (inclusion criteria)
 > - Drawing or 3D modeling software that embeds a scripting language on the user interface or allows automation with a very limited number of steps between programming and code execution.
 > - Tools aimed at teaching programming in a visual or graphic context.
 > - [Ad hoc: tools that have shown potential for teaching in a visual or graphic context.]
-> - [**SORTABLE VIEW OF THE TABLE**](http://villares.github.io/csv-to-html-table/host-platforms-and-languages)| [CSV on GitHub](https://github.com/villares/Resources-for-teaching-programming/blob/master/I%20-%20Host%20platforms%20%26%20languages.csv) | [raw CSV](https://raw.githubusercontent.com/villares/Resources-for-teaching-programming/master/I%20-%20Host%20platforms%20%26%20languages.csv) 
+
+After updating a few times the data from the earlier table, work started on compiling the other tables below.
 
 ----
 
