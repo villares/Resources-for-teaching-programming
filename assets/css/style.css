@@ -547,7 +547,11 @@ template {
 }
 
 div.summary-style {
-    border: 3px solid black;
+    border: 1px solid black;
     float: top right;
-    padding: 10px;
+    margin: 2em auto;
+    padding: 1em;
+    position: absolute;
+    top: 0;
+    right: 0;
 }
