@@ -1,5 +1,3 @@
-----
-
 # toc
 
 <h1>Resources for teaching programming for artists, designers and architects</h1>
