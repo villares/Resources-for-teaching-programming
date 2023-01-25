@@ -4,27 +4,22 @@
   <head>
     <meta charset="utf-8">
     <title>Alexandre B A Villares</title>
-    <link rel="stylesheet" href="https://abav.lugaralgum.com/Resources-for-teaching-programming/assets/css/style.css"> <!--- href="/assets/css/style.css"-->
+    <link rel="stylesheet" href="https://abav.lugaralgum.com//assets/css/style.css"> <!--- href="/assets/css/style.css"-->
     <link rel="stylesheet" href="https://abav.lugaralgum.com/assets/css/syntax.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700" media="all">
   </head>
   <body>
 <h1><a href="https://abav.lugaralgum.com/">Alexandre Villares</a></h1>
+<hr>    
+    <article>
     <div class="content">
       {{ content }}
     </div>
+    </article>  
     <footer>
       <div class="container">
       </div>
     </footer>
-<script>
-const summaryDiv = document.createElement('div');
-const range = document.createRange();
-range.setStartBefore(document.querySelector("h2#summary"));
-range.setEndBefore(document.querySelector("h2:not(#summary)"));
-range.surroundContents(summaryDiv);
-summaryDiv.classList.add("summary-style");    
-summaryDiv.style.float = "right";
-</script>                  
+    <script src="../assets/scripts.js"></script>               
   </body>
 </html>
