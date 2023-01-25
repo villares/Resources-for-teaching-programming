@@ -1,16 +1,6 @@
-## Summary
-
-- [Python on the Landscape of Programming Tools for Design and Architectural Education](#python-on-the-landscape-of-programming-tools-for-design-and-architectural-education)
-   - [Extended table of Hosts, Platforms & Languages](#extended-table-of-hosts-platforms--languages)
-- [Processing + Python tools table](#processing--python-tools-table)
-- [More FLOSS + Python options to explore](#more-floss--python-options-to-explore)
-   - [3D](#3d)
-   - [2D](#2d)
-- [Books and references](#books-and-references)
-
-<h2> </h2>
-
 ----
+
+# toc
 
 <h1>Resources for teaching programming for artists, designers and architects</h1>
 
