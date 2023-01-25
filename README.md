@@ -1,16 +1,16 @@
-# toc
+<h1 id="toc"></h1>
 
-<h1>Resources for teaching programming for artists, designers and architects</h1>
+# Resources for teaching programming for artists, designers and architects
 
 ([repository](https://github.com/villares/Resources-for-teaching-programming/))
 
-### Python on the Landscape of Programming Tools for Design and Architectural Education
+## Python on the Landscape of Programming Tools for Design and Architectural Education
 
 This page was originally made to host data from this paper, that presented an earlier version of the table below:
 
 *VILLARES, A. B. A., & MOREIRA, D. (2017). [**Python on the Landscape of Programming Tools for Design and Architectural Education**](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017). Presented at the SIGRADI 2017, Concepcíon, Chile.*
 
-#### Extended table of Hosts, Platforms & Languages
+### Extended table of Hosts, Platforms & Languages
 
 [**SORTABLE VIEW OF THE TABLE**](http://villares.github.io/csv-to-html-table/host-platforms-and-languages)| [CSV on GitHub](https://github.com/villares/Resources-for-teaching-programming/blob/master/I%20-%20Host%20platforms%20%26%20languages.csv) | [raw CSV](https://raw.githubusercontent.com/villares/Resources-for-teaching-programming/master/I%20-%20Host%20platforms%20%26%20languages.csv) 
 
@@ -23,7 +23,7 @@ After updating a few times the data from the earlier table, work started on comp
 
 ----
 
-### Processing + Python tools table
+## Processing + Python tools table
 
 | Name | Processing features | based on (& Python version) | Python standard library | libraries ecosystem | main features | main limitations |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -68,6 +68,8 @@ After updating a few times the data from the earlier table, work started on comp
 - [Pero](https://github.com/xxao/pero) — A unified Python API for multiple drawing backends. 
 - [generativepy](https://github.com/martinmcbride/generativepy) — Generative art and graphing library based on PyCairo.
 - [vsketch](https://github.com/abey79/vsketch) — A plotter-centric Python generative art toolkit. 
+
+----
 
 ## Books and references
 
