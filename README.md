@@ -1,8 +1,8 @@
-<h1 id="toc"></h1>
-
 # Resources for teaching programming for artists, designers and architects
 
 ([repository](https://github.com/villares/Resources-for-teaching-programming/))
+
+<h1 id="toc"></h1>
 
 ## Python on the Landscape of Programming Tools for Design and Architectural Education
 
