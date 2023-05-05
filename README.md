@@ -33,6 +33,8 @@ After updating a few times the data from the earlier table, work started on comp
 [**pyp5js**](https://berinhard.github.io/pyp5js/)✱ (pyodide or transcrypt mode)| [p5.js](https://p5js.org/) | Python 3 via [Pyodide](https://luxapodular.github.io/Py5.js/) or [Transcrypt](https://transcrypt.org/documentation) | complete | Python, JavaScript & p5.js |  web ready sketches & [editor](https://berinhard.github.io/pyp5js/pyodide/), very p5.js compatible & pyodide makes it very Python compatible | Experimental, still incomplete, p5.js features (as opposed to Processing Java/Python modes) |
 [SkulptIDE](http://esperanc.github.io/skulptIde/pages.html) and [trinket.io](https://trinket.io/processing) | [ProcessingJS](http://processingjs.org/) | [Skulpt](http://skulpt.org/) (Python 2, going to 3 now) | partial | unknown, possibly JavaScript |  very nice web IDE, browser based sketches | ProcessingJS is defunct; not extensible
 [BrythonIDE](https://esperanc.github.io/brythonide/) and [p5py.com](http://p5py.com/)  | [p5.js](https://p5js.org/) | [Brython](https://brython.info/) (Python 3) | [fairly complete](https://brython.info/static_doc/en/stdlib.html) | JavaScript & p5.js |  browser IDE, browser based sketches & very p5.js compatible | p5.js features (as opposed to Processing Java/Python modes)  |
+[Proceso](https://proceso.cc/)  | [p5.js](https://p5js.org/) | Python 3 via Pyodide | complete | Python, JavaScript & p5.js |  browser based sketches & very p5.js compatible, Python compatible,, names similar to py5 | p5.js features (as opposed to Processing Java/Python modes) |
+
 
 
 ✱ **these are the ones I'm using most!**
