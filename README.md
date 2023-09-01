@@ -69,6 +69,7 @@ After updating a few times the data from the earlier table, work started on comp
 - [Pero](https://github.com/xxao/pero) — A unified Python API for multiple drawing backends. 
 - [generativepy](https://github.com/martinmcbride/generativepy) — Generative art and graphing library based on PyCairo.
 - [vsketch](https://github.com/abey79/vsketch) — A plotter-centric Python generative art toolkit. 
+- [nodezator](https://github.com/IndiePython/nodezator) — A multi-purpose visual node editor for Python with visualization capabilities.
 
 ----
 
