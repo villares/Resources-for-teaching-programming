@@ -83,7 +83,7 @@ After updating a few times the data from the earlier table, work started on comp
 
 ----
 
-**Please consider feedback, colaboration by means of pull requests, and/or a small [donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HCGAKACDMVNV2)!**
+**Please consider feedback, colaboration by means of pull requests, and/or a small [donation](https://www.paypal.com/donate/?hosted_button_id=ENYJFB4PUQN7C)!**
 
 ----
 
