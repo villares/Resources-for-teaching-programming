@@ -47,6 +47,7 @@ After updating a few times the data from the earlier table, work started on comp
 - **[FreeCAD](https://freecadweb.org)** — Your own 3D parametric modeler
   - It has great a Python interactive console, bult-in editor (macro panel) and can also be used for 2D.
 - [Blender](https://blender.org) — Blender's [Python API](https://docs.blender.org/api/current/index.html)
+- [Ursina](https://www.ursinaengine.org/) — A 3D game engine based on the [Panda3D](https://www.panda3d.org/) framework,
 - OpenSCAD + Python tools:
   - [OpenPySCAD](https://github.com/taxpon/openpyscad)
   - [SolidPython](https://github.com/SolidCode/SolidPython)
