@@ -55,7 +55,7 @@ After updating a few times the data from the earlier table, work started on comp
 - [CADQuery](https://github.com/CadQuery/cadquery) & [CQ-Editor](https://github.com/CadQuery/CQ-editor) — A Python parametric CAD scripting framework
 - [PyPlasm](https://github.com/plasm-language/pyplasm) — Python version of the PLASM 3D modeling functional language
 - [VPython](https://vpython.org/) — A 3D programming environment for Python:
-- [sdf](https://github.com/fogleman/sdf) — A Python library to generate 3D meshes based on SDFs (Signed Distance Functions)
+- [sdfCAD](https://gitlab.com/nobodyinperson/sdfcad) — A Python library to generate 3D meshes based on SDFs (Signed Distance Functions)
 
 ### 2D
 
