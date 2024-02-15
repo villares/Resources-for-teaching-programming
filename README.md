@@ -45,17 +45,18 @@ After updating a few times the data from the earlier table, work started on comp
 ### 3D 
 
 - **[FreeCAD](https://freecadweb.org)** — Your own 3D parametric modeler
-  - It has great a Python interactive console, bult-in editor (macro panel) and can also be used for 2D.
+  - It has great a Python interactive console, bult-in editor (macro panel) and can also be used for 2D
 - [Blender](https://blender.org) — Blender's [Python API](https://docs.blender.org/api/current/index.html)
-- [Ursina](https://www.ursinaengine.org/) — A 3D game engine based on the [Panda3D](https://www.panda3d.org/) framework,
+- [Ursina](https://www.ursinaengine.org/) — A 3D game engine based on the [Panda3D](https://www.panda3d.org/) framework
+- [trimesh](https://trimesh.org/) — A Python library to work with 3D meshes. Can be used on Jupyter Notebooks and integrates well with [py5](https://p5coding.org)
+- [CADQuery](https://github.com/CadQuery/cadquery) & [CQ-Editor](https://github.com/CadQuery/CQ-editor) — A Python parametric CAD scripting framework
+- [PyPlasm](https://github.com/plasm-language/pyplasm) — Python version of the PLASM 3D modeling functional language
+- [VPython](https://vpython.org/) — A 3D programming environment for Python
+- [sdfCAD](https://gitlab.com/nobodyinperson/sdfcad) — A Python library to generate 3D meshes based on SDFs (Signed Distance Functions)
 - OpenSCAD + Python tools:
   - [OpenPySCAD](https://github.com/taxpon/openpyscad)
   - [SolidPython](https://github.com/SolidCode/SolidPython)
   - [PythonOpensCAD](https://www.bvcw.org/)
-- [CADQuery](https://github.com/CadQuery/cadquery) & [CQ-Editor](https://github.com/CadQuery/CQ-editor) — A Python parametric CAD scripting framework
-- [PyPlasm](https://github.com/plasm-language/pyplasm) — Python version of the PLASM 3D modeling functional language
-- [VPython](https://vpython.org/) — A 3D programming environment for Python:
-- [sdfCAD](https://gitlab.com/nobodyinperson/sdfcad) — A Python library to generate 3D meshes based on SDFs (Signed Distance Functions)
 
 ### 2D
 
