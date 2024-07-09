@@ -76,7 +76,8 @@ After updating a few times the data from the earlier table, work started on comp
 
 ## Books and references
 
-- The py5 tutorial series: [intro to py5 and python](https://py5coding.org/tutorials/intro_to_py5_and_python.html)
+- [How to install and start using **py5**](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html)
+- The **py5** tutorial series: [intro to py5 and python](https://py5coding.org/tutorials/intro_to_py5_and_python.html)
 - Tristan Bunn's [Learn Pyhon Visually](https://nostarch.com/learn-python-visually) and [other wonderful resources](https://tabreturn.github.io/), including [Processing.py in Ten Lessons](https://tabreturn.github.io/code/processing/python/2021/04/16/processing.py_in_ten_lessons-resources.html) and the [thonny-py5mode](https://github.com/tabreturn/thonny-py5mode) plugin EN
 - Allen Downey's [Think Python 2e](https://greenteapress.com/wp/think-python-2e/) EN / [Pense em Python 2e](https://penseallen.github.io/PensePython2e/) PT
 - Al Sweigart's [Automate the Boring Stuff](https://autmatetheboringstuff.com) and [many other open resources](https://alsweigart.com/) EN
