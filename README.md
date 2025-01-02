@@ -57,6 +57,7 @@ After updating a few times the data from the earlier table, work started on comp
   - [OpenPySCAD](https://github.com/taxpon/openpyscad)
   - [SolidPython](https://github.com/SolidCode/SolidPython)
   - [PythonOpensCAD](https://www.bvcw.org/)
+- [raylib/pyray](https://pypi.org/project/raylib/) — Python bindings for the raylib framework.
 
 ### 2D
 
@@ -71,7 +72,6 @@ After updating a few times the data from the earlier table, work started on comp
 - [Pero](https://github.com/xxao/pero) — A unified Python API for multiple drawing backends. 
 - [generativepy](https://github.com/martinmcbride/generativepy) — Generative art and graphing library based on PyCairo.
 - [vsketch](https://github.com/abey79/vsketch) — A plotter-centric Python generative art toolkit. 
-
 ----
 
 ## Books and references
