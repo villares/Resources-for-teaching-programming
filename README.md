@@ -37,7 +37,7 @@ After updating a few times the data from the earlier table, work started on comp
 [BrythonIDE](https://esperanc.github.io/brythonide/) | [p5.js](https://p5js.org/) | [Brython](https://brython.info/) (Python 3) | [fairly complete](https://brython.info/static_doc/en/stdlib.html) | JavaScript & p5.js |  Browser IDE, browser based sketches & very p5.js compatible | p5.js features only  |
 
 
-✱ **these are the ones I'm using most!**
+✱ **these are the ones I recommend!**
 
 ----
 
